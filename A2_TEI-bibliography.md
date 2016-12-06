@@ -3,7 +3,8 @@
 
 <h1>Digital-Scholarly-EditionsGR-workshop</h1>
 <h2>TEI<h2/></lb> 
-<h2>Ενδεικτική βιβλιογραφία <h2/></lb>
+Ενδεικτική βιβλιογραφία </lb>
+
 <ul>
 <li>Laurent Romary. “Questions & Answers for TEI Newcomers.” Jahrbuch für Computerphilologie 10. Mentis Verlag, 2009. http://arxiv.org/abs/0812.3563 | [http://hal.archives-ouvertes.fr/hal-00348372/en/]</li>
 
