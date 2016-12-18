@@ -11,3 +11,7 @@ TEI</lb>
 
 <li>Edward Vanhoutte and Ron Van den Branden. Bates Maack (ed.) Text Encoding Initiative (TEI). 5172-5181. http://dx.doi.org/10.1081/E-ELIS3-120043748 | [http://www.kantl.be/ctb/pub/preprint/elis.pdf]</li>
 </ul>
+
+
+<h2>επιπλον υλικό<h2>
+<li><a href="http://teibyexample.org">TEI by example </a></li>
