@@ -30,7 +30,7 @@ Jerome McGann. “Marking Texts of Many Dimensions.” Susan Schreibman, Ray Sie
 
 
 
-<h2>Online courses </h2>
+<h2>Επιπλέον υλικό </h2>
 <li><a href="http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Elena_Pierazzo_and_Arianna_Ciula_-_Encoding_Texts.pdf">Encoding texts. Markup, XML and oXygen, di Elena Pierazzo e Arianna Ciula</a></li>
 
 
