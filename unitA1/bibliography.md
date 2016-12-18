@@ -3,7 +3,7 @@
 <h2>XML - MARKUP LANGUAGES </h2>
 
 
-<h1>Ενδεικτική βιβλιογραφία </h1><lb/>
+<h2>Ενδεικτική βιβλιογραφία </h2><lb/>
 
 <ul>
 <li>Susan Hockey, Allen Renear, and Jerome J. McGann. "What is Text? A Debate on the Philosophical and Epistemological Nature of Text in the Light of Humanities Computing Research". 1999. http://www.iath.virginia.edu/ach-allc.99/proceedings/hockey-renear2.html. [Panel presented at ACH/ALLC 1999]</li>
@@ -31,7 +31,7 @@ Jerome McGann. “Marking Texts of Many Dimensions.” Susan Schreibman, Ray Sie
 
 
 <h2>Επιπλέον υλικό </h2>
-<li><a href="http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Elena_Pierazzo_and_Arianna_Ciula_-_Encoding_Texts.pdf">Encoding texts. Markup, XML and oXygen</a>, di Elena Pierazzo e Arianna Ciula</li>
+<li><a href="http://dixit.uni-koeln.de/wp-content/uploads/2015/04/Camp1-Elena_Pierazzo_and_Arianna_Ciula_-_Encoding_Texts.pdf">Encoding texts. Markup, XML and oXygen</a>, by Elena Pierazzo e Arianna Ciula</li>
 
 
 
