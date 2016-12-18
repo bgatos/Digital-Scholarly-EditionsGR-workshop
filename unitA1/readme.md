@@ -5,7 +5,9 @@
  <h3>Βασικά κεφάλαια της ενότητας:</h3>
 <ul>
 <li>Τι είναι μια γλώσσα σήμανσης και γιατί είναι χρήσιμη; </li>
-<li>διαφορές μεταξύ HTML, SGML, XML</li>
+<ul><li>διαφορές μεταξύ HTML, SGML, XML</li>
+<li>procedural VS descriptive markup</li>
+</ul>
 
 <li>Τι είναι η XML; 
 <ul>
