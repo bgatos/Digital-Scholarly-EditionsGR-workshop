@@ -36,6 +36,8 @@ Jerome McGann. “Marking Texts of Many Dimensions.” Susan Schreibman, Ray Sie
 <li><a href="https://prezi.com/jiwc-yg9wmlq/an-introduction-to-markup-xml-tei-and-the-oxygen-xml-editor/">An introduction to Markup, XML, TEI, and the oXygen XML editor</a>,by James Cummings</li>
 
 
+<li><a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html">A Gentle Introduction to XML</a></li>
+
 
 
 
