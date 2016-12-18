@@ -1,6 +1,6 @@
 
-
-XML - MARKUP LANGUAGES <lb/>
+<h1>Digital-Scholarly-EditionsGR-workshop</h1>
+<h2>XML - MARKUP LANGUAGES </h2>
 
 
 <h1>Ενδεικτική βιβλιογραφία </h1><lb/>
