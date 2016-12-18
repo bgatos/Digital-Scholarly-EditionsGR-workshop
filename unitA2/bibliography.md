@@ -2,7 +2,7 @@
 
 
 <h1>Digital-Scholarly-EditionsGR-workshop</h1>
-TEI</lb> 
+<h1>TEI</h1> 
 Ενδεικτική βιβλιογραφία </lb>
 
 <ul>
@@ -13,5 +13,5 @@ TEI</lb>
 </ul>
 
 
-<h2>επιπλον υλικό<h2>
+<h2>επιπλέον υλικό</h2>
 <li><a href="http://teibyexample.org">TEI by example </a></li>
