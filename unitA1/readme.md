@@ -1,4 +1,4 @@
-<h1>ενότητα A1: Markup - XML - TEI </h1>
+<h1>ενότητα A1: Markup - XML  </h1>
 Η πρώτη ενότητα περιέχει μια εισαγωγή στις γλώσσες σήμανσης και πιο ειδικά στην eXtensible Markup Language </lb>
 
 
