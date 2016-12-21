@@ -19,7 +19,7 @@
 Η δομή του σεμιναρίου έχει ως εξής
 
 <a href="https://github.com/ann-mar/Digital-Scholarly-EditionsGR-workshop/tree/master/unitA1" >ενότητα Α1</a></lb>
-<a href="https://github.com/ann-mar/Digital-Scholarly-EditionsGR-workshop/tree/master/unitA2" >ενότητα Α2</a></lb>
+<a href="https://github.com/ann-mar/Digital-Scholarly-EditionsGR-workshop/tree/master/unitA2" >ενότητα Α2</a>
 ---------
 
 This repository hosts materials for the workshop <i>Digital Scholarly Editions and Modern Greek Studies</i> workshop that takes place in Athens, Greece in April 2017. The event is part of the DiXiT network, co-organized with a group of local research anc cultural institutions and is hosted by the National Library of Greece.
