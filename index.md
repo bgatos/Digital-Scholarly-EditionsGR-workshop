@@ -18,9 +18,9 @@
 
 Η δομή του σεμιναρίου έχει ως εξής
 
-#<a href="https://github.com/ann-mar/Digital-Scholarly-EditionsGR-workshop/tree/master/unitA1">ενότητα Α1</a>
+##<a href="https://github.com/ann-mar/Digital-Scholarly-EditionsGR-workshop/tree/master/unitA1">ενότητα Α1</a>
 
-#<a href="https://github.com/ann-mar/Digital-Scholarly-EditionsGR-workshop/tree/master/unitA2">ενότητα Α2</a>
+##<a href="https://github.com/ann-mar/Digital-Scholarly-EditionsGR-workshop/tree/master/unitA2">ενότητα Α2</a>
 ---------
 
 
