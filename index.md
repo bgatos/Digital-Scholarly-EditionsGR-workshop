@@ -18,7 +18,6 @@ To σεμινάριο <i>Ψηφιακές Εκδόσεις και Νεοελλη
 </ul>
 
 Συνεργάζονται οι: 
-http://![](https://guides.github.com/activities/hello-world/branching.png)
 <ul>
 <li>Δρ Βασίλης Γάτος</li>
 <li>Άρης Καραταράκης </li>
