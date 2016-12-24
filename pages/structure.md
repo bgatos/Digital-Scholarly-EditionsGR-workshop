@@ -1,3 +1,11 @@
+
+---
+layout: page
+title: Δομή και πρόγραμμα
+tagline: Τι να περιμένετε και τι όχι 
+description: 
+---
+
 Στο σεμινάριο διδάσκουν οι:
 <ul>
 <li>Elli Mylonas</li>
