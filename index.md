@@ -1,22 +1,28 @@
 
-
-Το αποθετήριο αυτό περιέχει το εκπαιδευτικό υλικό που δημιουργήθηκε αποκλειστικά στο πλαίσιο του σεμιναρίου Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές τον Απρίλιο του 2017 στην Αθήνα. Το σεμινάριο εκπονείται με την υποστήριξη του DiXiT, σε συνοργάνωση με την Εθνική Βιβλιοθήκη της Ελλάδος, και σε συνεργασία με το Μορφωτικό Ίδρυμα Εθνικής Τραπέζης, το Εθνικό Ίδρυμα Ερευνών.
+Το αποθετήριο αυτό περιέχει το εκπαιδευτικό υλικό που δημιουργήθηκε αποκλειστικά στο πλαίσιο του σεμιναρίου <i>Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές</i> τον Απρίλιο του 2017 στην Αθήνα. Το σεμινάριο εκπονείται με την υποστήριξη του <a href="http://dixit.uni-koeln.de">DiXiT</a>,  σε συνοργάνωση με την Εθνική Βιβλιοθήκη της Ελλάδος, και σε συνεργασία με το Μορφωτικό Ίδρυμα Εθνικής Τραπέζης, το Εθνικό Ίδρυμα Ερευνών.
 
 Στο σεμινάριο διδάσκουν οι:
+<ul>
+<li>Elli Mylonas</li>
+<li>Αννα-Μαρία Σιχάνη - Anna-Maria Sichani</li>
+<li>Magdalena Turska</li>
+<li>Elena Spadini</li>
+</ul>
 
-Elli Mylonas
-Αννα-Μαρία Σιχάνη - Anna-Maria Sichani
-Magdalena Turska
-Elena Spadini
-Συνεργάζονται οι:
+Συνεργάζονται οι: 
 
-Δρ Βασίλης Γάτος
-Άρης Καραταράκης
+<ul>
+<li>Δρ Βασίλης Γάτος</li>
+<li>Άρης Καραταράκης </li>
+</ul>
+
 Η δομή του σεμιναρίου έχει ως εξής
 
-ενότητα Α1
+###<a href="https://github.com/ann-mar/Digital-Scholarly-EditionsGR-workshop/tree/master/unitA1">ενότητα Α1</a>
 
-ενότητα Α2
+###<a href="https://github.com/ann-mar/Digital-Scholarly-EditionsGR-workshop/tree/master/unitA2">ενότητα Α2</a>
+---------
+
 
 This is a website for the <a href="http://dixit.uni-koeln.de">DiXiT</a>-sponsored workshop on <b>Digital Scholarly Editions and Modern Greek Studies</b>, co-organized with a group of local research anc cultural institutions and is hosted by the National Library of Greece, in Athens, Greece on April 2017.
 
