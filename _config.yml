@@ -1,0 +1,8 @@
+title: Digital-scholarly-editionsGR-workshop
+description: Digital Scholarly Editions and Modern Greek Studies workshop - Athens, April 2017
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
