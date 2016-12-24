@@ -2,7 +2,7 @@ title: Ψηφιακές Εκδόσεις και Νεοελληνικές Σπο�
 description: Digital Scholarly Editions and Modern Greek Studies | <a href= "http://dixit.uni-koeln.de">DiXiT</a> workshop - Athens, 3-7 April 2017
 google_analytics: 
 show_downloads: true
-theme: my-awesome-jekyll-theme
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
