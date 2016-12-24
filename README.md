@@ -1,3 +1,3 @@
 # Digital-Scholarly-EditionsGR-workshop
 
-wesbite for the workshop Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές 
+GitHub pages handcrafted wesbite for the workshop Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές 
