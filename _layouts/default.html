@@ -12,9 +12,10 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ site.url }}">Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές, Αθήνα, 3-7 Απριλίου 2017</a></h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
+	      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+  <h1><a href="{{ site.url }}">Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές, Αθήνα, 3-7 Απριλίου 2017</a></h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+
 	      {% include menu.html %}
         <p>{{ header.html }} </p>
         
@@ -25,7 +26,6 @@
       <figure> <img src="../images/dixit-logo-transparent.png"/>
         </figure>
     
-     
       </header>
       <section>
 
