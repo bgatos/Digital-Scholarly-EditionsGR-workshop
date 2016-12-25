@@ -7,19 +7,19 @@ To σεμινάριο <i>Ψηφιακές Εκδόσεις και Νεοελλη
 
 Η <a href="https://github.com/amsichani/Digital-Scholarly-EditionsGR-workshop/tree/gh-pages/pages/intro.md ">ταυτότητα </a>του σεμιναρίου μπορείτε να τη δείτε 
 Στο σεμινάριο διδάσκουν οι:
--<ul>
- -<li>Elli Mylonas</li>
- -<li>Αννα-Μαρία Σιχάνη - Anna-Maria Sichani</li>
- -<li>Magdalena Turska</li>
- -<li>Elena Spadini</li>
- -</ul>
+<ul>
+ <li>Elli Mylonas</li>
+<li>Αννα-Μαρία Σιχάνη - Anna-Maria Sichani</li>
+<li>Magdalena Turska</li>
+<li>Elena Spadini</li>
+</ul>
  
   
   Συνεργάζονται οι: 
- -<ul>
- -<li>Δρ Βασίλης Γάτος</li>
- -<li>Άρης Καραταράκης </li>
- -</ul>
+ <ul>
+ <li>Δρ Βασίλης Γάτος</li>
+<li>Άρης Καραταράκης </li>
+ </ul>
  
 Η δομή του σεμιναρίου έχει ως εξής
 
