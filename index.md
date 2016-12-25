@@ -1,23 +1,20 @@
 
-To σεμινάριο <i>Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές</i> εκπονείται στο πλαίσιο και με την υποστήριξη του <a href="http://dixit.uni-koeln.de">DiXiT (Digital Scholarly Editions Initial Training Network</a> (Marie Curie Actions -European Commission’s 7th Framework Programme), σε συνοργάνωση με την Εθνική Βιβλιοθήκη της Ελλάδος, και σε συνεργασία με το Μορφωτικό Ίδρυμα Εθνικής Τραπέζης, το Εθνικό Ίδρυμα Ερευνών , το Εργαστήριο Νεοελληνικής Φιλολογίας – Πανεπιστήμιο Ιωαννίνων, το Μορφωτικό Ίδρυμα Εθνικής Τραπέζης και το Εργαστήριο Υπολογιστικής Ευφυίας- Ινστιτούτο Πληροφορικής & Τηλεπικοινωνιών- Δημόκριτος.
+To σεμινάριο _Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές_ εκπονείται στο πλαίσιο και με την υποστήριξη του [DiXiT (Digital Scholarly Editions Initial Training Network][DiXiT (Digital Scholarly Editions Initial Training Network)]:http://dixit.uni-koeln.de (Marie Curie Actions -European Commission’s 7th Framework Programme), σε συνοργάνωση με την Εθνική Βιβλιοθήκη της Ελλάδος, και σε συνεργασία με το Μορφωτικό Ίδρυμα Εθνικής Τραπέζης, το Εθνικό Ίδρυμα Ερευνών , το Εργαστήριο Νεοελληνικής Φιλολογίας – Πανεπιστήμιο Ιωαννίνων, το Μορφωτικό Ίδρυμα Εθνικής Τραπέζης και το Εργαστήριο Υπολογιστικής Ευφυίας- Ινστιτούτο Πληροφορικής & Τηλεπικοινωνιών- Δημόκριτος.
 
 Το σεμινάριο φιλοδοξεί να μεταφέρει και να συντονίσει την ελληνική ερευνητική κοινότητα με το διεθνές ενδιαφέρον γύρω από τη δημιουργία ψηφιακών εκδόσεων (digital scholarly editions) πρωτίστως κειμενικών τεκμηρίων (λογοτεχνικά έργα, λογοτεχνικά και ιστορικά αρχεία, σώματα αλληλογραφιών, ημερολόγια, υπηρεσιακά έγγραφα, κλπ.)  αλλά και πλήθος άλλων τεκμηρίων πολιτισμικού ενδιαφέροντος (παρτιτούρες, οπτικοακουστικό υλικό  κ.ά).
 
-Η <a href="https://github.com/amsichani/Digital-Scholarly-EditionsGR-workshop/tree/gh-pages/pages/intro.md ">ταυτότητα </a>του σεμιναρίου μπορείτε να τη δείτε 
+Η ταυτότητα του σεμιναρίου μπορείτε να τη δείτε 
 Στο σεμινάριο διδάσκουν οι:
-<ul>
- <li>Elli Mylonas</li>
-<li>Αννα-Μαρία Σιχάνη - Anna-Maria Sichani</li>
-<li>Magdalena Turska</li>
-<li>Elena Spadini</li>
-</ul>
+*Elli Mylonas
+*Αννα-Μαρία Σιχάνη - Anna-Maria Sichani
+*Magdalena Turska
+*Elena Spadini
  
   
   Συνεργάζονται οι: 
- <ul>
- <li>Δρ Βασίλης Γάτος</li>
-<li>Άρης Καραταράκης </li>
- </ul>
+ *Δρ Βασίλης Γάτος
+*Άρης Καραταράκης 
+
  
 Η δομή του σεμιναρίου έχει ως εξής
 
@@ -27,7 +24,7 @@ To σεμινάριο <i>Ψηφιακές Εκδόσεις και Νεοελλη
 ---------
 
 
-This is a website for the <a href="http://dixit.uni-koeln.de">DiXiT</a>-sponsored workshop on <b>Digital Scholarly Editions and Modern Greek Studies</b>, co-organized with a group of local research anc cultural institutions and is hosted by the National Library of Greece, in Athens, Greece on April 2017.
+This is a website for the <a href="http://dixit.uni-koeln.de">DiXiT</a>-sponsored workshop on **Digital Scholarly Editions and Modern Greek Studies**, co-organized with a group of local research anc cultural institutions and is hosted by the National Library of Greece, in Athens, Greece on April 2017.
 
 The content and material is openly available and originally developed by Anna-Maria Sichani for the <a href="http://dixit.uni-koeln.de">DiXiT</a>-sponsored workshop on <b>Digital Scholarly Editions and Modern Greek Studies</b>, in Athens, Greece.
 
