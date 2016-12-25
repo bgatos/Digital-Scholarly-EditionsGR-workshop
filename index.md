@@ -26,4 +26,4 @@ To σεμινάριο _Ψηφιακές Εκδόσεις και Νεοελλην
 
 This is a website for the [DiXiT](http://dixit.uni-koeln.de)-sponsored workshop on **Digital Scholarly Editions and Modern Greek Studies**, co-organized with a group of local research and cultural institutions and is hosted by the National Library of Greece, in Athens, Greece on April 2017.
 
-The content and material is originally developed by Anna-Maria Sichani and openly available under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License] (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+The content and material is originally developed by Anna-Maria Sichani and openly available under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
