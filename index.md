@@ -6,7 +6,7 @@ To σεμινάριο _Ψηφιακές Εκδόσεις και Νεοελλην
 Η [ταυτότητα](intro) του σεμιναρίου μπορείτε να τη δείτε 
 Στο σεμινάριο διδάσκουν οι:
 
-* Elli Mylonas
+* Elli Mylonas fhk
 * Αννα-Μαρία Σιχάνη - Anna-Maria Sichani
 * Magdalena Turska
 * Elena Spadini
