@@ -1,12 +1,8 @@
 ---
 layout: default
-title: Δομή και πρόγραμμα 
+title: Εκπαιδευτικό Υλικό 
 tagline: τι να περιμένετε και τι όχι από το σεμινάριο
 ---
 
-## Welcome to a third page 
-
-_yay_
-
-[back](./)
+## Εκπαιδευτικό Υλικό 
 
