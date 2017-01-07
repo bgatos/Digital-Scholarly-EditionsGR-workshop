@@ -86,16 +86,11 @@ header h2 {
 
 #container {
   min-height: 750px;
-  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
 }
 
 .inner {
   width: 750px;
   margin: 0 auto;
-}
-
-#container .inner img {
-  max-width: 100%;
 }
 
 #downloads {
@@ -105,7 +100,7 @@ header h2 {
 a.button {
   display: block;
   float: left;
-  width: 179px;
+  width: 300px;
   padding: 12px 8px 12px 8px;
   margin-right: 14px;
   font-size: 15px;
