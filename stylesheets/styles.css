@@ -170,12 +170,12 @@ header ul {
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:280px;
+  width:320px;
   font-size:14px;
 }
 
 header li {
-  width:69px;
+  width:79px;
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
