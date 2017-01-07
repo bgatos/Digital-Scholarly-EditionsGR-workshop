@@ -172,7 +172,7 @@ header ul {
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
-  font-size:18px;
+  font-size:16px;
 }
 
 header li {
@@ -180,15 +180,7 @@ header li {
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
-  font-size:18px;
-}
-
-header li:first-child a {
-  border-radius:5px 0 0 5px;
-}
-
-header li:last-child a {
-  border-radius:0 5px 5px 0;
+  font-size:16px;
 }
 
 header ul a {
