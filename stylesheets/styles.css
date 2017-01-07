@@ -164,19 +164,18 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-
 header ul {
   list-style:none;
   height:40px;
   padding:0;
   background: #f4f4f4;
-  border-radius:20px;
+  border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
 }
 
 header li {
-  width:150px;
+  width:89px;
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
@@ -192,7 +191,7 @@ header li:last-child a {
 
 header ul a {
   line-height:1;
-  font-size:16px;
+  font-size:11px;
   color:#999;
   display:block;
   text-align:center;
@@ -219,7 +218,7 @@ header ul li + li + li {
 }
 
 header ul a strong {
-  font-size:18px;
+  font-size:14px;
   display:block;
   color:#222;
 }
@@ -231,7 +230,7 @@ section {
 }
 
 small {
-  font-size:18px;
+  font-size:11px;
 }
 
 hr {
