@@ -85,12 +85,12 @@ header h2 {
 }
 
 #container {
-  min-height: 595px;
+  min-height: 750px;
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
 }
 
 .inner {
-  width: 620px;
+  width: 750px;
   margin: 0 auto;
 }
 
@@ -150,19 +150,6 @@ a.button span {
   display: block;
   height: 23px;
   padding-left: 50px;
-}
-
-#download-zip span {
-  background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
-}
-#download-tar-gz span {
-  background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
-}
-#view-on-github span {
-  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
-}
-#view-on-github {
-  margin-right: 0;
 }
 
 code, pre {
