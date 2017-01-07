@@ -175,13 +175,6 @@ header ul {
   width:270px;
 }
 
-header li {
-  width:150px;
-  float:left;
-  height:90px;
-  display: block;
-}
-
 header ul a {
   line-height:1;
   font-size:11px;
