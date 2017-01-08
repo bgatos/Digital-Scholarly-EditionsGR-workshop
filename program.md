@@ -64,10 +64,10 @@ C. Θεωρητικές συζητήσεις (απογευματινές ανο�
 	                     
 ###Στο σεμινάριο διδάσκουν οι:
 
-* <a href="library.brown.edu/cds/elli-mylonas/">Εlli Mylonas</a>
+* <a href="https://library.brown.edu/cds/elli-mylonas/">Εlli Mylonas</a>
 * <a href="huygens.knaw.nl/sichani-anna-maria/">Αννα-Μαρία Σιχάνη</a>
 * <a href="">Magdalena Turska</a>
-* <a href="huygens.knaw.nl/elena-spadini/">Elena Spadini</a>
+* <a href="https://www.huygens.knaw.nl/elena-spadini/">Elena Spadini</a>
  
   
 Συνεργάζονται οι: 
