@@ -7,20 +7,11 @@ To σεμινάριο _Ψηφιακές Εκδόσεις και Νεοελλην
 
 Ενημερωθείτε για την [ταυτότητα](desc) του σεμιναρίου.
 
-Ενημερωθείτε για το [πρόγραμμα](program) του σεμιναρίου και το [εκπαιδευτικό υλικό](material) όπως και για την ομάδα διδασκαλίας.
+Ενημερωθείτε για το [δομή και το πρόγραμμα](program) του σεμιναρίου και το [εκπαιδευτικό υλικό](material) όπως και για την ομάδα διδασκαλίας.
 
 Δηλώστε [συμμετοχή](registration) μέχρι τις **15 Μαρτίου 2017** και μη διστάσετε να <a href="mailto:anna-maria.sichani@huygens.knaw.nl">επικοινωνήσετε μαζί μας </a> για οποιαδήποτε διευκρίνηση.
 
-
-
- 
-Η δομή του σεμιναρίου έχει ως εξής
-
-## [ενότητα Α1](https://github.com/amsichani/Digital-Scholarly-EditionsGR-workshop/tree/master/unitA1)
-
-## [ενότητα Α2](https://github.com/amsichani/Digital-Scholarly-EditionsGR-workshop/tree/master/unitA2)
 ---------
-
 
 This is a website for the [DiXiT](http://dixit.uni-koeln.de)-sponsored workshop on **Digital Scholarly Editions and Modern Greek Studies**, co-organized with a group of local research and cultural institutions and is hosted by the National Library of Greece, in Athens, Greece on April 2017.
 
