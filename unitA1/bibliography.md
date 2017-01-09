@@ -25,6 +25,8 @@ Jerome McGann. “Marking Texts of Many Dimensions.” Susan Schreibman, Ray Sie
 
 <li>Steven J. DeRose, David G. Durand, Elli Mylonas, and Allen H. Renear. “What is Text, Really?” Journal of Computer Documentation 21.3 (1997): 1-24. http://doi.acm.org/10.1145/264842.264843. </li>
 
+<li>C. M. Sperberg-McQueen, "What is XML and Why Should Humanists Care? , [Abstract for a talk at] DRH '97, Oxford, September 1997, http://cmsmcq.com/1997/drh97.html</li>
+
 
 </ul>
 
