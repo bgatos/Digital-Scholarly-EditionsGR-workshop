@@ -7,7 +7,7 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 ## Δομή και πρόγραμμα 
 
 δομή  του σεμιναρίου 
-<figure> <img src=".../images/program.png"/> </figure>
+<figure> <img src="../images/program.png"/> </figure>
 
 
  
