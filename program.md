@@ -8,8 +8,9 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 δομή  του σεμιναρίου 
 
-<a href="">
-	                     
+ <figure> <img src="{{site.url}}/images/program.png"title="program"/></figure>
+ 
+ 
 ### Στο σεμινάριο διδάσκουν οι:
 
 * <a href="https://library.brown.edu/cds/elli-mylonas/">Εlli Mylonas</a>
