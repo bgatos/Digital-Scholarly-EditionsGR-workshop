@@ -6,8 +6,7 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 ## Δομή και πρόγραμμα 
 
-<figure> <img src="../images/program.jpg"/> </figure>
- 
+ ![GitHub Logo](/images/program.png)
  
 ### Στο σεμινάριο διδάσκουν οι:
 
