@@ -8,7 +8,7 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 δομή  του σεμιναρίου 
 
- <figure> <img src="{{site.url}}/images/program.png"title="program"/></figure>
+ <img src="{{site.url}}/images/program.png"title="program"/>
  
  
 ### Στο σεμινάριο διδάσκουν οι:
