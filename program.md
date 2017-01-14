@@ -6,7 +6,7 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 ## Δομή και πρόγραμμα 
 
-![Program](/images/program.png)
+<figure> <img src="../images/program.png"></figure>
  
 ### Στο σεμινάριο διδάσκουν οι:
 
