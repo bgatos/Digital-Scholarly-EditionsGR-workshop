@@ -11,7 +11,7 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 
 <figure>
- <img src="../images/program.png"title="program"/> </figure>
+ <img src=".../images/program.png"title="program"/> </figure>
 
 
  
