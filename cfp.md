@@ -7,5 +7,5 @@ In selecting participants, consideration will be given to
 (c) disciplinary diversity. 
 A number of bursaries are available to defray the cost of travel and accommodation.
 
-The deadline for workshop is 3 March 2017. 
-Please complete and submit ontime the online application form .
+The deadline for workshop is 17 March 2017. 
+Please complete and submit on time the online application form .
