@@ -33,9 +33,9 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 ### Στο σεμινάριο διδάσκουν οι:
 
 * <a href="https://library.brown.edu/cds/elli-mylonas/">Εlli Mylonas</a>
-* <a href="https://www.huygens.knaw.nl/sichani-anna-maria/">Αννα-Μαρία Σιχάνη</a>
+* <a href="https://amsichani.github.io">Άννα-Μαρία Σιχάνη</a>
 * <a href="">Magdalena Turska</a>
-* <a href="https://www.huygens.knaw.nl/elena-spadini/">Elena Spadini</a>
+* <a href="http://elenaspadini.com">Elena Spadini</a>
  
   
 Συνεργάζονται οι: 
