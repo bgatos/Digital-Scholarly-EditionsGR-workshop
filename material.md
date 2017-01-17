@@ -1,12 +1,14 @@
 ---
 layout: default
 title: Εκπαιδευτικό Υλικό 
-tagline: τι να περιμένετε και τι όχι από το σεμινάριο
+tagline: 
 ---
 
 ## Εκπαιδευτικό Υλικό 
 
 
-## [ενότητα Α1](https://github.com/amsichani/Digital-Scholarly-EditionsGR-workshop/tree/master/unitA1)
+## [ενότητα 1: Θεωρία, ιστορία, παραδείγματα και χρήσεις των ψηφιακών εκδόσεων](https://github.com/amsichani/Digital-Scholarly-EditionsGR-workshop/tree/master/unit1)
 
-## [ενότητα Α2](https://github.com/amsichani/Digital-Scholarly-EditionsGR-workshop/tree/master/unitA2)
+## [ενότητα 2: Introduction to markup, text encoding and XML](https://github.com/amsichani/Digital-Scholarly-EditionsGR-workshop/tree/master/unit2)
+
+## [ενότητα 3: Μεταγραφή και κωδικοποίηση κειμένου με το πρότυπο ΤΕΙ. Βασική δομή κειμένου και κύρια στοιχεία](https://github.com/amsichani/Digital-Scholarly-EditionsGR-workshop/tree/master/unit3)
