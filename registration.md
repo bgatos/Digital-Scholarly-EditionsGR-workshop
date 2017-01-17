@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Φόρμα Συμμετοχής
-tagline: τι να περιμένετε και τι όχι από το σεμινάριο
+tagline: Σας ενδιαφέρει; 
 ---
 
 ## Φόρμα συμμετοχής
@@ -16,6 +16,9 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 φοιτητές ή νεες/νέοι ερευνητές που το θέμα των μεταπτυχιακών/διδακτορικών σπουδών ή ερευνητικό πρότζεκτ περιέχει , προϋποθέτει ή σχετίζεται με την έκδοση κι επεξεργασία κειμενικών πηγών. 
 
+Attendance of the DiXiT GR workshop is free, but places at each of the sessions are strictly limited to 25 participants. Priority will be given to GR-registered research students and (early-career) researchers, but interested parties are eligible to apply.
+
+In selecting participants, consideration will be given to (a) the relevance and fit of the training course to the participant’s needs; (b) proximity of the participant’s ‘base’ (home or institution) to each of the venues ,and (c) disciplinary diversity. A number of bursaries are available to defray the cost of travel and accommodation.
 
 Συμπληρώστε εδώ τη <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9rwxDuE4B9YiIu4Qkg2g090we0y4x07EJESlemjlSaNHxEg/viewform">φόρμα συμμετοχής</a>. 
 
