@@ -6,7 +6,8 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 ## Δομή και πρόγραμμα 
 
-<figure> <img src="../images/program.png"> </figure>
+<figure> <img src="../images/programme.png"/> 
+</figure>
 
 1.Theory, history and examples of digital scholarly editing 
 
