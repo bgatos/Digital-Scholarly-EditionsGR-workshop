@@ -1,6 +1,3 @@
-
-
-
 <h1>Digital-Scholarly-EditionsGR-workshop</h1>
 <h1>TEI</h1> 
 Ενδεικτική βιβλιογραφία </lb>
