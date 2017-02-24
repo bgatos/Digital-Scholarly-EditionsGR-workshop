@@ -4,7 +4,7 @@
 Στο σεμινάριο διδάσκουν οι:
 <ul>
 <li>Elli Mylonas</li>
-<li>Αννα-Μαρία Σιχάνη - Anna-Maria Sichani</li>
+<li>Αννα-Μαρία Σιχάνη </li>
 <li>Magdalena Turska</li>
 <li>Elena Spadini</li>
 </ul>
@@ -16,13 +16,6 @@
 <li>Άρης Καραταράκης </li>
 </ul>
 
-Η δομή του σεμιναρίου έχει ως εξής
-
-###<a href="https://github.com/ann-mar/Digital-Scholarly-EditionsGR-workshop/tree/master/unit1">ενότητα 1</a>
-
-###<a href="https://github.com/ann-mar/Digital-Scholarly-EditionsGR-workshop/tree/master/unit2">ενότητα 2</a>
-
-###<a href="https://github.com/ann-mar/Digital-Scholarly-EditionsGR-workshop/tree/master/unit3">ενότητα 3</a>
 
 ---------
 
