@@ -6,37 +6,33 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 ## Δομή και πρόγραμμα 
 
-<figure> <img src="../images/programme.png"/> 
-</figure>
 
 
+# 1.Θεωρία, ιστορία, παραδείγματα και χρήσεις των ψηφιακών εκδόσεων
 
+# 2.Introduction to markup, text encoding and XML
 
-## 1.Θεωρία, ιστορία, παραδείγματα και χρήσεις των ψηφιακών εκδόσεων
+# 3.Μεταγραφή και κωδικοποίηση κειμένου με το πρότυπο ΤΕΙ. Βασική δομή κειμένου και κύρια στοιχεία
 
-## 2.Introduction to markup, text encoding and XML
+# 4.TEI named entities
 
-## 3.Μεταγραφή και κωδικοποίηση κειμένου με το πρότυπο ΤΕΙ. Βασική δομή κειμένου και κύρια στοιχεία
+# 5.a.Transcribing editorial interventions and encoding of primary sources & facsimiles - b.Genre, discipline specific or methodological schemas, customizations and best practices
 
-## 4.TEI named entities
+# 6.Single source - multiple outputs: Transforming your TEI texts
 
-## 5.a.Transcribing editorial interventions and encoding of primary sources & facsimiles - b.Genre, discipline specific or methodological schemas, customizations and best practices
+# 7.Working with facsimiles: Document analysis & Handwritten Text Recognition
 
-## 6.Single source - multiple outputs: Transforming your TEI texts
+# 8.Panel on “How to get a digital scholarly edition off the ground”
 
-## 7.Working with facsimiles: Document analysis & Handwritten Text Recognition
+# 9.What is, Why  and How to make a TEI schema (ODD)
 
-## 8.Panel on “How to get a digital scholarly edition off the ground”
+# 10.Multi-file transform and query: An introduction to eXist, xPath, XQuery
 
-## 9.What is, Why  and How to make a TEI schema (ODD)
+# 11.TEI - eXist clinic
 
-## 10.Multi-file transform and query: An introduction to eXist, xPath, XQuery
+# 12.Keynote
 
-## 11.TEI - eXist clinic
-
-## 12.Keynote
-
-## 13.Putting it all together
+# 13.Putting it all together
 
  
 ### Στο σεμινάριο διδάσκουν οι:
