@@ -21,16 +21,14 @@
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         {% endif %} 
       !--> 
+          {% include menu.html %}
    <figure> <img src="{{site.url}}/images/dixit-logo-transparent.png" a href="http://dixit.uni-koeln.de" />
       <img src="{{site.url}}/images/nlg.png" title="nlg logo" a href="http://transition.nlg.gr"/>
      <img src="{{site.url}}/images/huygenslogo.png" title="Huygens ING" a href="https://www.huygens.knaw.nl"/>
          <img src="{{site.url}}/images/Marie-Curie-Actions.jpg" title="Marie Curie Actions"/>
         </figure>
              <br/>
-             <br/>    
-        <br/>
-             <br/>
-        	{% include menu.html %}
+        
       </header>
       <section>
       {{ content }}
