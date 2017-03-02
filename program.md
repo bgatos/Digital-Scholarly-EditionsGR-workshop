@@ -8,11 +8,11 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 
 
-##### 1.Θεωρία, ιστορία, παραδείγματα και χρήσεις των ψηφιακών εκδόσεων
+##### 1.Introductions. Theory, history, examples of digital scholarly editing
 
 ##### 2.Introduction to markup, text encoding and XML
 
-##### 3.Μεταγραφή και κωδικοποίηση κειμένου με το πρότυπο ΤΕΙ. Βασική δομή κειμένου και κύρια στοιχεία
+##### 3.Introduction to TEI. Basic structure and core elements
 
 ##### 4.TEI named entities
 
