@@ -17,13 +17,13 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 ##### 4.TEI named entities
 
 
-* Τρίτη 25 Απριλίου 
+_ Τρίτη 25 Απριλίου 
 ##### 5.a.Transcribing editorial interventions and encoding of primary sources & facsimiles - b.Genre, discipline specific or methodological schemas, customizations and best practices
 
 ##### 6.Single source - multiple outputs: Transforming your TEI texts
 
 
-#### Τετάρτη 26 Απριλίου 
+_Τετάρτη 26 Απριλίου 
 ##### 7.Working with facsimiles: Document analysis & Handwritten Text Recognition
 
 ##### 8.Panel on “How to get a digital scholarly edition off the ground”
