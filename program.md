@@ -30,7 +30,7 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 ##### 11.TEI - eXist clinic
 
-##### 12.Keynote
+##### 12.Keynote  - Mats Dahlström (Associate professor, Swedish School of Library and Information Science,UC Borås, Sweden)
 
 ##### 13.Putting it all together
 
