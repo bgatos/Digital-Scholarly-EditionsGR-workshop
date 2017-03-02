@@ -12,8 +12,6 @@ To σεμινάριο _Ψηφιακές Εκδόσεις και Νεοελλην
 Δηλώστε [συμμετοχή](registration) μέχρι τις **31 Μαρτίου 2017** και μη διστάσετε να <a href="mailto:anna-maria.sichani@huygens.knaw.nl">επικοινωνήσετε μαζί μας </a> για οποιαδήποτε διευκρίνηση.
 
 ---------
-This is a website hosted on GitHub Pages &mdash; <a href="https://pages-themes.github.io/minimal/">minimal theme</a>- minimal edited using <a href="https://jekyllrb.com">Jekyll </a> and markdown</small>
+This is a website hosted on GitHub Pages &mdash; <a href="https://pages-themes.github.io/minimal/">minimal theme</a>- minimal edited using <a href="https://jekyllrb.com">Jekyll </a> and markdown
 
-This is a website for the [DiXiT](http://dixit.uni-koeln.de)-sponsored workshop on **Digital Scholarly Editions and Modern Greek Studies**, co-organized with a group of local research and cultural institutions and is hosted by the National Library of Greece, in Athens, Greece on April 2017.
-
-The content and material is originally developed by the workshop's team and openly available under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+This is a website for the [DiXiT](http://dixit.uni-koeln.de)-sponsored workshop on **Digital Scholarly Editions and Modern Greek Studies**, co-organized with a group of local research and cultural institutions and is hosted by the National Library of Greece, in Athens, Greece on April 2017. The content and material is originally developed by the workshop's team and openly available under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
