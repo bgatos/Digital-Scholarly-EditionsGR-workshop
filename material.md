@@ -11,7 +11,7 @@ tagline:
 
 ## ενότητα 2: [Introduction to markup, text encoding and XML]()<!--Εισαγωγή στην κωδικοποίηση κειμένου και στην XML!-->
 
-## ενότητα 3: [Introduction to TEI. Basic structure and core elements ()<!--Μεταγραφή και κωδικοποίηση κειμένου με το πρότυπο ΤΕΙ. Βασική δομή κειμένου και κύρια στοιχεία!-->
+## ενότητα 3: [Introduction to TEI. Basic structure and core elements]()<!--Μεταγραφή και κωδικοποίηση κειμένου με το πρότυπο ΤΕΙ. Βασική δομή κειμένου και κύρια στοιχεία!-->
 
 ## ενότητα 4: [TEI named entities]()
 
