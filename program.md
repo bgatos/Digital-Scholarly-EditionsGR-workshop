@@ -48,7 +48,7 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 * <a href="https://library.brown.edu/cds/elli-mylonas/">Εlli Mylonas</a>
 * <a href="https://www.huygens.knaw.nl/sichani-anna-maria/">Άννα-Μαρία Σιχάνη</a>
-* <a href="">Magdalena Turska</a>
+* <a href="http://dixit.uni-koeln.de/fellowships/experienced-researchers/#er3">Magdalena Turska</a>
 * <a href="https://www.huygens.knaw.nl/elena-spadini/">Elena Spadini</a>
  
   
