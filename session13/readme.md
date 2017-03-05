@@ -3,7 +3,7 @@
 How to create a digital TEI edition TEI Publisher in eXist-db  
 </h1>
 
-Η δωδέκατη ενότητα περιέχει μια εισαγωγή σν </lb>
+Η δέκατη τρίτη και τελευταία ενότητα περιέχει </lb>
  <h3>Βασικά κεφάλαια της ενότητας:</h3>
 <ul>
 
