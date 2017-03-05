@@ -1,7 +1,7 @@
 
-<h1>ενότητα 12: Keynote </h1>
+<h1>ενότητα 12: Κεντρική ομιλία </h1>
 
-Η δωδέκατη ενότητα περιέχει μια εισαγωγή σν </lb>
- <h3>Βασικά κεφάλαια της ενότητας:</h3>
+Κεντρικός ομιλητής της εκδήλωσης είναι ο Mats Dahlström (Associate professor, Swedish School of Library and Information Science,UC Borås, Sweden)</lb>
+ <h3></h3>
 <ul>
 
