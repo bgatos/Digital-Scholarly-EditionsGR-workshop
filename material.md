@@ -15,7 +15,7 @@ tagline:
 
 ## ενότητα 4: [TEI named entities]()
 
-## ενότητα 5: [a.Transcribing editorial interventions and encoding of primary sources & facsimiles - b.Genre, discipline specific or methodological schemas, customizations and best practices]()
+## ενότητα 5: [a.Transcription, authorial interventions and encoding of primary sources - b.Genre, discipline specific or methodological schemas, customizations and best practices]()
 
 ## ενότητα 6: [Single source - multiple outputs: Transforming your TEI texts]()
 
