@@ -13,7 +13,7 @@ tagline:
 
 ## ενότητα 3: [Μεταγραφή και κωδικοποίηση κειμένου με το πρότυπο ΤΕΙ. Βασική δομή κειμένου και κύρια στοιχεία | Introduction to TEI. Basic structure and core elements]()
 
-## ενότητα 4: [Ονόματα οντοτήτων (πρόσωπα, μέρη, ημερομηνίες) ενός ΤΕΙ εγγράφου | TEI named entities]()
+## ενότητα 4: [Οντότητες ονομάτων (πρόσωπα, μέρη, ημερομηνίες) ενός ΤΕΙ εγγράφου | TEI named entities]()
 
 ## ενότητα 5: [a.Μεταγραφή, συγγραφικές & εκδοτικές επεμβάσεις και πρωτογενείς πηγές | Transcription, authorial interventions and encoding of primary sources - b.Genre, discipline specific or methodological schemas, customizations and best practices]()
 
