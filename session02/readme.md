@@ -1,4 +1,4 @@
-<h1>ενότητα 2: Markup - XML  </h1>
+<h1>ενότητα 2: Εισαγωγή στην κωδικοποίηση κειμένου και στην XML | Introduction to markup, text encoding and XML  </h1>
 Η πρώτη ενότητα περιέχει μια εισαγωγή στις γλώσσες σήμανσης και πιο ειδικά στην eXtensible Markup Language (XML) </lb>
 
  <h3>Βασικά κεφάλαια της ενότητας:</h3>
