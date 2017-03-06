@@ -18,7 +18,7 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 
 
 ### Τρίτη 25 Απριλίου 
-##### 5.a.Transcribing editorial interventions and encoding of primary sources & facsimiles - b.Genre, discipline specific or methodological schemas, customizations and best practices
+##### 5.a.Transcription, authorial interventions and encoding of primary sources - b.Genre, discipline specific or methodological schemas, customizations and best practices
 
 ##### 6.Single source - multiple outputs: Transforming your TEI texts
 
