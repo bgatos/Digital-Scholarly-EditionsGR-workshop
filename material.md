@@ -7,7 +7,7 @@ tagline:
 ## Εκπαιδευτικό Υλικό 
 
 
-## ενότητα 1: [Θεωρία, ιστορία, παραδείγματα και χρήσεις των ψηφιακών εκδόσεων | Introductions. Theory, history, examples of digital scholarly editing]() 
+## ενότητα 1: [Θεωρία, ιστορία, παραδείγματα και χρήσεις των ψηφιακών εκδόσεων | Theory, history, examples of digital scholarly editing]() 
 
 ## ενότητα 2: [Εισαγωγή στην κωδικοποίηση κειμένου και στην XML | Introduction to markup, text encoding and XML]()
 
