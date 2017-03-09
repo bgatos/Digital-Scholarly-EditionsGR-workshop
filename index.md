@@ -9,7 +9,7 @@ To σεμινάριο _Ψηφιακές Εκδόσεις και Νεοελλην
 
 Ενημερωθείτε για το [δομή και το πρόγραμμα](program) του σεμιναρίου και το [εκπαιδευτικό υλικό](material) όπως και για την ομάδα διδασκαλίας.
 
-Δηλώστε [συμμετοχή](registration) μέχρι τις **31 Μαρτίου 2017** και μη διστάσετε να <a href="mailto:anna-maria.sichani@huygens.knaw.nl">επικοινωνήσετε μαζί μας </a> για οποιαδήποτε διευκρίνηση.
+Δηλώστε [συμμετοχή](registration) μέχρι τις **6 Απριλίου 2017** και μη διστάσετε να <a href="mailto:anna-maria.sichani@huygens.knaw.nl">επικοινωνήσετε μαζί μας </a> για οποιαδήποτε διευκρίνηση.
 
 ---------
 This is a website hosted on GitHub Pages &mdash; <a href="https://pages-themes.github.io/minimal/">minimal theme</a>- minimal edited using <a href="https://jekyllrb.com">Jekyll </a> and markdown.
