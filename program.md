@@ -5,7 +5,7 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 ---
 
 ## Δομή και πρόγραμμα 
-
+Πρόκειται για ένα εντατικό πενθήμερο σεμινάριο, με μαθήματα από τις 9πμ έως τις 17μμ ημερησίως.
 
 ### Δευτέρα 24 Απριλίου 
 ##### 1. Θεωρία, ιστορία, παραδείγματα και χρήσεις των ψηφιακών εκδόσεων | Theory, history, examples of digital scholarly editing
@@ -38,10 +38,10 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 ##### 12.Keynote  - Mats Dahlström (Associate professor, Swedish School of Library and Information Science,UC Borås, Sweden)
 
 
-### Παρασκευή 28 Απριλίου
+### Παρασκευή 28 Απριλίου (έως τις 14μμ)
 ##### 13.Putting it all together.How to create a digital TEI edition TEI Publisher in eXist-db  
 
-
+##### 14. Ερωτήσεις - διευκρινήσεις - ιδέες - αξιολόγηση
  
 ### Στο σεμινάριο διδάσκουν οι:
 
