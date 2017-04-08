@@ -16,7 +16,7 @@
 
 <h3>ενότητα 5β.Βασικά κεφάλαια της ενότητας:</h3>
 <ul>
-<li>σώματα αλληλογραφίας/ Εχουμε τη χαρά να συνομιλήσουμε με τον Ron Van den Branden, από  <a href="ctb.kantl.be/">Centrum voor Teksteditie en Bronnenstudie</a> , μεταξύ των πρωτεργατών του <a href="http://ctb.kantl.be/project/dalf/dalfdoc/index.html">DALF Guidelines for the Description and Encoding of Modern Correspondence Material.</a></li>
+<li>σώματα αλληλογραφίας/ Εχουμε τη χαρά να συνομιλήσουμε με τον Ron Van den Branden, από  το <a href="ctb.kantl.be/">Centrum voor Teksteditie en Bronnenstudie - Centre for Scholarly Editing and Document Studies (Gent) </a> , μεταξύ των πρωτεργατών του <a href="http://ctb.kantl.be/project/dalf/dalfdoc/index.html">DALF Guidelines for the Description and Encoding of Modern Correspondence Material.</a></li>
 <li>κριτικό υπόμνημα</li>
 <li> ασκήσεις για την μεταγραφή τεκμηρίων αλληλογραφίας </li>
 </ul>
