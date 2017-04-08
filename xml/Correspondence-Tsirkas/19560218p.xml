@@ -32,43 +32,104 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="#MP"><surname> Παπαϊωάννου
-                        </surname><forename>Μ.Μ.</forename></persName>
+                    <persName ref="#MP">
+                        <surname>Παπαϊωάννου</surname>
+                        <forename>Μ.Μ.</forename>
+                    </persName>
                     <date when="1956-02-18"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="#ST">
-                        <surname>Τσίρκας</surname><forename> Στρατής</forename></persName>
-                    <placeName>Αλεξάνδρεια</placeName>
+                        <surname>Τσίρκας</surname>
+                        <forename>Στρατής</forename>
+                    </persName>
+                    <placeName ref="#alexandria">Αλεξάνδρεια</placeName>
                     <date notBefore="1956-02-18" notAfter="1956-02-22" cert="medium"/>
                 </correspAction>
             </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="ST">
+                        <persName>
+                            <forename>Στρατής</forename>
+                            <surname>Τσίρκας</surname>
+                        </persName>
+                        <birth when="1911-06-23"><placeName ref="#cairo">Cairo</placeName>, 23 July
+                            1911</birth>
+                        <death when="1980-01-27"><placeName ref="#athens">Athens</placeName>, 27
+                            January 1980</death>
+                        <sex value="M">male</sex>
+                        <idno type="VIAF">64012589</idno>
+                    </person>
+                    <person xml:id="MP">
+                        <persName>
+                            <forename>Μ.Μ.</forename>
+                            <surname>Παπαϊωάννου</surname>
+                        </persName>
+                        <birth when="1912">1912</birth>
+                        <death when="1955">1955</death>
+                        <sex value="M">male</sex>
+                        <idno type="VIAF">39787655</idno>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="alexandria">
+                        <placeName>Alexandria</placeName>
+                        <country>Egypt</country>
+                        <location>
+                            <geo>31.200092, 29.918739</geo>
+                        </location>
+                    </place>
+                    <place xml:id="cairo">
+                        <placeName>Cairo</placeName>
+                        <country>Egypt</country>
+                        <location>
+                            <geo>30.044420, 31.235712</geo>
+                        </location>
+                    </place>
+                    <place xml:id="athens">
+                        <placeName>Athens</placeName>
+                        <country>Greece</country>
+                        <location>
+                            <geo>37.983810, 23.727539</geo>
+                        </location>
+                    </place>
+                </listPlace>
+            </settingDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <div type="postcard">
-                
                 <div type="figure">
-                    <p>  Ναύπλιον Παλαμήδι<lb/> <foreign xml:lang="en">Nafplion Palamidi</foreign><lb/>Athens-Greece P.O.B.<unclear reason="damage"/> </p>
+                    <p>Ναύπλιον Παλαμήδι<lb/>
+                        <foreign xml:lang="en">Nafplion Palamidi</foreign><lb/>Athens-Greece
+                            P.O.B.<unclear reason="damage"/>
+                    </p>
                 </div>
                 <pb/>
                 <div type="content">
-                <opener>
-                    <dateline when="1956-02-18">18/2/56</dateline>
-                    <salute> Αγαπητέ μου <persName><forename>Στρατή</forename></persName>
-                    </salute>
-                </opener>
-                <p>Σ’ εγκατέλειψα και θα σκέφτεσαι δεν ξέρω και γω τι για μένα. Έπεσα και πάλι στη
-                    βιοπάλη. Ένας εκδοτικός οίκος μου ανέθεσε την έκδοση των <bibl><title>Απάντων</title> του <author>Χριστόφορου
-                        Περραιβού </author></bibl>«εξ απροόπτου» και επνίχτηκα κυριολεχτικά. </p>
-                <p> Ελπίζω στο τέλος του μήνα να είμαι σε θέση να σου γράψω εκτεταμένα. Θα σου
-                    στείλω και μερικές επιφυλλίδες για τα θέματα της παρακμής.</p>
-                    <p>Χαιρετισμούς στη γυναίκα σου, στο <persName><surname>Μαλάνο</surname></persName> και σ’ όλους σας αυτού στην αραπιά.</p>
-                    <p>Εσύ θα μου γράψεις; Σε παρακαλώ. Πες μου και για τον <bibl><title>Καβάφη</title></bibl> σου τίποτα.</p>
-                <closer> <salute>Σε φιλώ
-                </salute>
-                    <signed>Μιχάλης</signed></closer>
+                    <opener>
+                        <dateline><date when="1956-02-18">18/2/56</date></dateline>
+                        <salute>Αγαπητέ μου <persName ref="#ST"
+                                ><forename>Στρατή</forename></persName>
+                        </salute>
+                    </opener>
+                    <p>Σ’ εγκατέλειψα και θα σκέφτεσαι δεν ξέρω και γω τι για μένα. Έπεσα και πάλι
+                        στη βιοπάλη. Ένας εκδοτικός οίκος μου ανέθεσε την έκδοση των
+                                <bibl><title>Απάντων</title> του <author>Χριστόφορου Περραιβού
+                            </author></bibl>«εξ απροόπτου» και επνίχτηκα κυριολεχτικά.</p>
+                    <p>Ελπίζω στο τέλος του μήνα να είμαι σε θέση να σου γράψω εκτεταμένα. Θα σου
+                        στείλω και μερικές επιφυλλίδες για τα θέματα της παρακμής.</p>
+                    <p>Χαιρετισμούς στη γυναίκα σου, στο
+                            <persName><surname>Μαλάνο</surname></persName> και σ’ όλους σας αυτού
+                        στην αραπιά.</p>
+                    <p>Εσύ θα μου γράψεις; Σε παρακαλώ. Πες μου και για τον
+                                <bibl><title>Καβάφη</title></bibl> σου τίποτα.</p>
+                    <closer><salute>Σε φιλώ</salute>
+                        <signed><persName ref="#MP">Μιχάλης</persName></signed></closer>
                 </div>
             </div>
         </body>

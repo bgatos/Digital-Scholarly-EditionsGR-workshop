@@ -49,25 +49,45 @@
          </correspDesc>
          <particDesc>
             <listPerson>
+               <person xml:id="ST">
+                  <persName>
+                     <forename>Στρατής</forename>
+                     <surname>Τσίρκας</surname>
+                  </persName>
+                  <birth when="1911-06-23"><placeName ref="#cairo">Cairo</placeName>, 23 July 1911</birth>
+                  <death when="1980-01-27"><placeName ref="#athens">Athens</placeName>, 27 January 1980</death>
+                  <sex value="M">male</sex>
+                  <idno type="VIAF">64012589</idno>
+               </person>
                <person xml:id="MP">
                   <persName>
-                     <surname>Παπαϊωάννου</surname>
                      <forename>Μ.Μ.</forename>
+                     <surname>Παπαϊωάννου</surname>
                   </persName>
                   <birth when="1912">1912</birth>
                   <death when="1955">1955</death>
                   <sex value="M">male</sex>
                   <idno type="VIAF">39787655</idno>
                </person>
-               <person xml:id="ST">
+               <person xml:id="GA">
                   <persName>
-                     <surname>Τσίρκας</surname>
-                     <forename>Στρατής</forename>
+                     <forename>Γλαύκος</forename>
+                     <surname>Αλιθέρσης</surname>
                   </persName>
-                  <birth when="1911-06-23"><placeName ref="#cairo">Cairo</placeName>, 23 July 1911</birth>
-                  <death when="1980-01-27"><placeName>Athens</placeName>, 27 January 1980</death>
+                  <birth when="1897"><placeName ref="#limassol">Limassol</placeName>, 1897</birth>
+                  <death when="1965"><placeName ref="#limassol">Limassol</placeName>, 1965</death>
                   <sex value="M">male</sex>
-                  <idno type="VIAF">64012589</idno>
+                  <idno type="VIAF">59883002</idno>
+               </person>
+               <person xml:id="TV">
+                  <persName>
+                     <forename>Τάσος</forename>
+                     <surname>Βουρνάς</surname>
+                  </persName>
+                  <birth when="1913">1913</birth>
+                  <death when="1990">1990</death>
+                  <sex value="M">male</sex>
+                  <idno type="VIAF">10104626</idno>
                </person>
             </listPerson>
          </particDesc>
@@ -94,6 +114,13 @@
                      <geo>37.983810, 23.727539</geo>
                   </location>
                </place>
+               <place xml:id="limassol">
+                  <placeName>Limassol</placeName>
+                  <country>Cyprus</country>
+                  <location>
+                     <geo>34.707130, 33.022617</geo>
+                  </location>
+               </place>
             </listPlace>
          </settingDesc>
       </profileDesc>
@@ -112,9 +139,9 @@
             <p>Για την έκδοση εκλογής από το έργο σου: Στη μελέτη μου που θα τη συνοδεύσει μπορώ να
                μιλήσω άνετα ή η θέση σου εμποδίζει;</p>
             <p>Ευχαριστώ για τα βιβλία κλπ. Θα σου στείλω κ εγώ βιβλία, χρήσιμα ίσως.</p>
-            <p>Ο κ. <persName><surname>Αλιθέρσης</surname></persName> είχε γράψει ιστορία της
+            <p>Ο κ. <persName ref="#GA"><surname>Αλιθέρσης</surname></persName> είχε γράψει ιστορία της
                λογοτεχνίας. Υπάρχει αντίτυπο;</p>
-            <p>Θα σου ξαναγράψω περισσότερα. Ο <persName><surname>Βουρνάς</surname></persName>είναι
+            <p>Θα σου ξαναγράψω περισσότερα. Ο <persName ref="#TV"><surname>Βουρνάς</surname></persName>είναι
                ενθουσιασμένος. </p>
             <closer><signed><persName ref="#MP">Μ.Π.</persName></signed></closer>
          </div>

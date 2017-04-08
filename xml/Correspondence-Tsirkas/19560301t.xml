@@ -31,33 +31,88 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#ST">><surname> Τσίρκας
-                  </surname><forename>Στρατής</forename></persName>
-               <placeName>Αλεξάνδρεια</placeName>
+               <persName ref="#ST">
+                  <surname> Τσίρκας</surname>
+                  <forename>Στρατής</forename>
+               </persName>
+               <placeName ref="#alexandria">Αλεξάνδρεια</placeName>
                <date when="1956-03-01"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="#MP">
-                  <surname>Παπαϊωάννου</surname><forename> Μ.Μ.</forename></persName>
-               <placeName>Αθήνα</placeName>
+                  <surname>Παπαϊωάννου</surname>
+                  <forename> Μ.Μ.</forename>
+               </persName>
+               <placeName ref="#athens">Αθήνα</placeName>
                <date notBefore="1956-03-01" notAfter="1956-03-18" cert="medium"/>
             </correspAction>
          </correspDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="ST">
+                  <persName>
+                     <forename>Στρατής</forename>
+                     <surname>Τσίρκας</surname>
+                  </persName>
+                  <birth when="1911-06-23"><placeName ref="#cairo">Cairo</placeName>, 23 July
+                     1911</birth>
+                  <death when="1980-01-27"><placeName ref="#athens">Athens</placeName>, 27
+                     January 1980</death>
+                  <sex value="M">male</sex>
+                  <idno type="VIAF">64012589</idno>
+               </person>
+               <person xml:id="MP">
+                  <persName>
+                     <forename>Μ.Μ.</forename>
+                     <surname>Παπαϊωάννου</surname>
+                  </persName>
+                  <birth when="1912">1912</birth>
+                  <death when="1955">1955</death>
+                  <sex value="M">male</sex>
+                  <idno type="VIAF">39787655</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+               <place xml:id="alexandria">
+                  <placeName>Alexandria</placeName>
+                  <country>Egypt</country>
+                  <location>
+                     <geo>31.200092, 29.918739</geo>
+                  </location>
+               </place>
+               <place xml:id="cairo">
+                  <placeName>Cairo</placeName>
+                  <country>Egypt</country>
+                  <location>
+                     <geo>30.044420, 31.235712</geo>
+                  </location>
+               </place>
+               <place xml:id="athens">
+                  <placeName>Athens</placeName>
+                  <country>Greece</country>
+                  <location>
+                     <geo>37.983810, 23.727539</geo>
+                  </location>
+               </place>
+            </listPlace>
+         </settingDesc>
       </profileDesc>
    </teiHeader>
    <text>
       <body>
          <div type="letter">
             <opener>
-            <dateline when="1956-03-01">1 Μάρτη 1956</dateline>
-            <salute>Αγαπημένε Μιχάλη,</salute>
+               <dateline><date when="1956-03-01">1 Μάρτη 1956</date></dateline>
+            <salute>Αγαπημένε <persName ref="#MP">Μιχάλη</persName>,</salute>
          </opener>
          <p> Πήρα το γράμμα σου – πήρα και τις συνέχειες για την ποίηση της παρακμής. Μη μου
             θυμώνεις που δε σου γράφω. Μόλις ησυχάσω θα το κάνω γιατί θέλω να συζητήσω μαζύ σου μια
             πλευρά – την επίδραση της προοδευτικής δυτικής λογοτεχνίας που σα να την παραμερίζεις. </p>
          <p>Ήξερα πως είχες δουλειά με τ’ απομνημονεύματα του
                <persName><surname>Περαιβού</surname></persName>. Το διάβασα σε μια εφημερίδα.</p>
-         <p>Ο <bibl type="book"> Καβάφης </bibl>καλά πηγαίνει. Γίνεται μεγάλο και σοβαρό βιβλίο. Έχω
+         <p>Ο <bibl type="book">Καβάφης</bibl> καλά πηγαίνει. Γίνεται μεγάλο και σοβαρό βιβλίο. Έχω
             έτοιμα, δαχτυλογραφημένα, να σου στείλω 2 κεφάλαια. Το ένα αναφέρεται στα Τείχη. Αυτό
             που γράφω τώρα: Καταστάσεις της παρακμής, κανονίζει τον
                   <persName><surname>Αυγέρη</surname></persName>, το
@@ -65,7 +120,7 @@
                   <persName><surname>Περίδη</surname></persName>. Με ντοκουμέντα, όπως πάντα.</p>
          <p>Ανακάλυψα επιτέλους τον υπηρεσιακό φάκελλο (Υπουργ. Δημ. Έργων) του
             <persName><surname>Καβάφη</surname></persName>. Μεθαύριο, <date>Κυριακή</date>, πάω στο
-               <placeName>Κάϊρο</placeName> γι’ αυτό. Περιμένω κι άλλα ευρήματα εκεί μέσα.</p>
+               <placeName ref="#cairo">Κάϊρο</placeName> γι’ αυτό. Περιμένω κι άλλα ευρήματα εκεί μέσα.</p>
          <p>Αγόρασα τον Φάκελλο <persName><surname>Αναστασιάδη</surname></persName> για να μπορώ να
             τον εξετάζω με την ησυχία μου. Κι άλλα, κι άλλα. Θα σου γράψω μόλις συνέρθω. Τώρα ζω
             κάτω απ’ την συγκίνηση του αγωνιστικού θανάτου του
@@ -76,7 +131,7 @@
                   Ραυτόπουλου</surname></persName> πως δεν τον ξεχνώ, θα του γράψω, όπως και του <persName><surname>Λεβάντα.</surname></persName> </p>
          <closer>
             <salute>Σε φιλώ</salute>
-            <signed><persName><forename>Σ </forename><surname>Τσίρκας</surname></persName>
+            <signed><persName ref="#ST"><forename>Σ</forename> <surname>Τσίρκας</surname></persName>
             </signed>
          </closer>
       </div>

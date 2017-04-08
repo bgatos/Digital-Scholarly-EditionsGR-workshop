@@ -31,17 +31,72 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#MP"><surname> Παπαϊωάννου
-                  </surname><forename>Μ.Μ.</forename></persName>
+               <persName ref="#MP">
+                  <surname>Παπαϊωάννου</surname>
+                  <forename> Μ.Μ.</forename>
+               </persName>
                <date when="1958-04-08"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="#ST">
-                  <surname>Τσίρκας</surname><forename> Στρατής</forename></persName>
-               <placeName>Αλεξάνδρεια</placeName>
+                  <surname> Τσίρκας</surname>
+                  <forename>Στρατής</forename>
+               </persName>
+               <placeName ref="#alexandria">Αλεξάνδρεια</placeName>
                <date notBefore="1958-04-08" notAfter="1958-04-09" cert="medium"/>
             </correspAction>
          </correspDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="ST">
+                  <persName>
+                     <forename>Στρατής</forename>
+                     <surname>Τσίρκας</surname>
+                  </persName>
+                  <birth when="1911-06-23"><placeName ref="#cairo">Cairo</placeName>, 23 July
+                     1911</birth>
+                  <death when="1980-01-27"><placeName ref="#athens">Athens</placeName>, 27
+                     January 1980</death>
+                  <sex value="M">male</sex>
+                  <idno type="VIAF">64012589</idno>
+               </person>
+               <person xml:id="MP">
+                  <persName>
+                     <forename>Μ.Μ.</forename>
+                     <surname>Παπαϊωάννου</surname>
+                  </persName>
+                  <birth when="1912">1912</birth>
+                  <death when="1955">1955</death>
+                  <sex value="M">male</sex>
+                  <idno type="VIAF">39787655</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+               <place xml:id="alexandria">
+                  <placeName>Alexandria</placeName>
+                  <country>Egypt</country>
+                  <location>
+                     <geo>31.200092, 29.918739</geo>
+                  </location>
+               </place>
+               <place xml:id="cairo">
+                  <placeName>Cairo</placeName>
+                  <country>Egypt</country>
+                  <location>
+                     <geo>30.044420, 31.235712</geo>
+                  </location>
+               </place>
+               <place xml:id="athens">
+                  <placeName>Athens</placeName>
+                  <country>Greece</country>
+                  <location>
+                     <geo>37.983810, 23.727539</geo>
+                  </location>
+               </place>
+            </listPlace>
+         </settingDesc>
       </profileDesc>
    </teiHeader>
    <text>
@@ -56,20 +111,20 @@
             </salute>
             </opener>
          
-           <p>Πήρα έναν τόμο β’ <bibl><title>Αισθητικά – Κριτικά </title>του<author>Βάρναλη</author> </bibl> για σένα μα για ν’ αποφύγω τη
+           <p>Πήρα έναν τόμο β’ <bibl><title>Αισθητικά – Κριτικά </title>του<author>Βάρναλη</author></bibl> για σένα μα για ν’ αποφύγω τη
                φασαρία του ταχυδρομείου σου στέλνω εσώκλειστα τα κομμάτια που αναφέροντα[ι] στον
                Καβάφη. Κι όταν έρθεις σου παραδίδω τον τόμο. Μην ξεχάσεις να φέρεις μαζί σου και το
-              <bibl><title>«Στραβόξυλο»</title> του<author> Νικολαΐδη</author></bibl>. Φωτογραφία σου βρέθηκε. </p>
+              <bibl><title>«Στραβόξυλο»</title> του <author>Νικολαΐδη</author></bibl>. Φωτογραφία σου βρέθηκε.</p>
             
          <closer><salute>Σας φιλώ</salute>
                <signed>
-                  <persName><forename>Μιχάλης</forename></persName></signed>
+                  <persName ref="#MP"><forename>Μιχάλης</forename></persName></signed>
                <dateline>8/4/58</dateline>
             </closer>
             <postscript>
                <label>Υ.Γ.</label>
-            <p>Ο <persName><surname>Βάρναλης </surname></persName>είναι άρρωστος. Σήμερα μπήκε στην κλινική του Σμπαρούνη για εγχείριση
-               προστάτου. Μόλις το έμαθα –<date> μεσάνυχτα Τρίτης</date>. Αύριο θα πάω να τον ιδώ.
+            <p>Ο <persName><surname>Βάρναλης</surname></persName> είναι άρρωστος. Σήμερα μπήκε στην κλινική του Σμπαρούνη για εγχείριση
+               προστάτου. Μόλις το έμαθα –<date>μεσάνυχτα Τρίτης</date>. Αύριο θα πάω να τον ιδώ.
                Μ[μονογραφή]</p>
             
            </postscript>
