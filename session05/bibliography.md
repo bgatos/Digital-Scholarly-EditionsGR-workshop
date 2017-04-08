@@ -1,12 +1,13 @@
-Digital editions of correspondence
+<h2>Digital editions of correspondence</h2>
 
-Pilot projects
-DALF  http://ctb.kantl.be/project/dalf/dalfdoc/index.html
+<h3>Pilot projects</h3>
+
+DALF http://ctb.kantl.be/project/dalf/dalfdoc/index.html
 
 Carl Maria von Weber – Collected Works (Germany) 
  http://www.weber-gesamtausgabe.de/en/Index 
 
-Ongoing projects
+<h3>Ongoing projects</h3>
 
 Alfred Escher Letter Edition (Switzerland) 
 http://www.briefedition.alfred-escher.ch
@@ -25,7 +26,7 @@ Van Gogh Letters (The Netherlands)
 http://vangoghletters.org/vg/
 
 
-Correspondence networks 
+<h3>Correspondence networks </h3>
 Early Modern Letters Online http://emlo.bodleian.ox.ac.uk/
 
 ePistolarium
