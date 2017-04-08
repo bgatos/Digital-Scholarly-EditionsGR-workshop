@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Πιλοτική ψηφιακή έκδοση αλληλογραφίας</title>
+            <editor>Αννα-Μαρία Σιχάνη<email>anna-maria.sichani@huygens.knaw.nl</email></editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <ref target="https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">
+                  Σεμινάριο DiXiT, 24-28 Απριλίου 2017</ref>
+            </publisher>
+            <date when="2017-03-06"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="CD-rom">
+               <title> Πιλοτικό Πρόγραμμα Ψηφιακής Έκδοσης Αλληλογραφίας: Η Περίπτωση της
+                  Αλληλογραφίας Τσίρκα και Παπαϊωάννου</title>
+               <publisher>Μορφωτικό Ίδρυμα Εθνικής Τραπέζης - Εθνικό Λογοτεχνικό και Ιστορικό Αρχείο</publisher>
+               <date>2004</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#MP">"><surname> Παπαϊωάννου
+                  </surname><forename>Μ.Μ.</forename></persName>
+               <date when="1955-06-21"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#ST">">
+                  <surname>Τσίρκας</surname><forename> Στρατής</forename></persName>
+               <placeName>Αλεξάνδρεια</placeName>
+               <date notBefore="1955-06-21" notAfter="1955-06-26" cert="medium"/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <dateline>21/6/55</dateline>
+               <salute>Αγαπητέ μου <persName>Στρατή</persName></salute>
+            </opener>
+            <p> Αν έχω τα <bibl type="book"><title>«Γράμματα»</title></bibl> θα ετοιμάσω μια συλλογή
+               των έργων του <persName><surname>Σκληρού</surname></persName>. Υπάρχουν
+               κληρονόμοι;</p>
+            <p> Έγιναν αυτού συζητήσεις γύρω από το σοσιαλισμό, όπως εδώ στο «Νουμά»;</p>
+            <p>Για την έκδοση εκλογής από το έργο σου: Στη μελέτη μου που θα τη συνοδεύσει μπορώ να
+               μιλήσω άνετα ή η θέση σου εμποδίζει;</p>
+            <p> Ευχαριστώ για τα βιβλία κλπ. Θα σου στείλω κ εγώ βιβλία, χρήσιμα ίσως.</p>
+            <p>Ο κ. <persName><surname>Αλιθέρσης</surname></persName> είχε γράψει ιστορία της
+               λογοτεχνίας. Υπάρχει αντίτυπο;</p>
+            <p>Θα σου ξαναγράψω περισσότερα. Ο <persName><surname>Βουρνάς </surname></persName>είναι
+               ενθουσιασμένος. </p>
+            <closer><signed> Μ.Π.</signed></closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Πιλοτική ψηφιακή έκδοση αλληλογραφίας</title>
+            <editor>Αννα-Μαρία Σιχάνη<email>anna-maria.sichani@huygens.knaw.nl</email></editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <ref target="https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">
+                  Σεμινάριο DiXiT, 24-28 Απριλίου 2017</ref>
+            </publisher>
+            <date when="2017-03-06"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="CD-rom">
+               <title> Πιλοτικό Πρόγραμμα Ψηφιακής Έκδοσης Αλληλογραφίας: Η Περίπτωση της
+                  Αλληλογραφίας Τσίρκα και Παπαϊωάννου</title>
+               <publisher>Μορφωτικό Ίδρυμα Εθνικής Τραπέζης - Εθνικό Λογοτεχνικό και Ιστορικό
+                  Αρχείο</publisher>
+               <date>2004</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#ST">><surname> Τσίρκας
+                  </surname><forename>Στρατής</forename></persName>
+               <placeName>Αλεξάνδρεια</placeName>
+               <date when="1956-03-01"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#MP">
+                  <surname>Παπαϊωάννου</surname><forename> Μ.Μ.</forename></persName>
+               <placeName>Αθήνα</placeName>
+               <date notBefore="1956-03-01" notAfter="1956-03-18" cert="medium"/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+            <dateline>1 Μάρτη 1956</dateline>
+            <salute>Αγαπημένε Μιχάλη,</salute>
+         </opener>
+         <p> Πήρα το γράμμα σου – πήρα και τις συνέχειες για την ποίηση της παρακμής. Μη μου
+            θυμώνεις που δε σου γράφω. Μόλις ησυχάσω θα το κάνω γιατί θέλω να συζητήσω μαζύ σου μια
+            πλευρά – την επίδραση της προοδευτικής δυτικής λογοτεχνίας που σα να την παραμερίζεις. </p>
+         <p>Ήξερα πως είχες δουλειά με τ’ απομνημονεύματα του
+               <persName><surname>Περαιβού</surname></persName>. Το διάβασα σε μια εφημερίδα.</p>
+         <p>Ο <bibl type="book"> Καβάφης </bibl>καλά πηγαίνει. Γίνεται μεγάλο και σοβαρό βιβλίο. Έχω
+            έτοιμα, δαχτυλογραφημένα, να σου στείλω 2 κεφάλαια. Το ένα αναφέρεται στα Τείχη. Αυτό
+            που γράφω τώρα: Καταστάσεις της παρακμής, κανονίζει τον
+                  <persName><surname>Αυγέρη</surname></persName>, το
+                  <persName><surname>Μαλάνο</surname></persName> και τον
+                  <persName><surname>Περίδη</surname></persName>. Με ντοκουμέντα, όπως πάντα.</p>
+         <p>Ανακάλυψα επιτέλους τον υπηρεσιακό φάκελλο (Υπουργ. Δημ. Έργων) του
+            <persName><surname>Καβάφη</surname></persName>. Μεθαύριο, <date>Κυριακή</date>, πάω στο
+               <placeName>Κάϊρο</placeName> γι’ αυτό. Περιμένω κι άλλα ευρήματα εκεί μέσα.</p>
+         <p>Αγόρασα τον Φάκελλο <persName><surname>Αναστασιάδη</surname></persName> για να μπορώ να
+            τον εξετάζω με την ησυχία μου. Κι άλλα, κι άλλα. Θα σου γράψω μόλις συνέρθω. Τώρα ζω
+            κάτω απ’ την συγκίνηση του αγωνιστικού θανάτου του
+                  <persName><surname>Νικολαΐδη</surname></persName>. Πρέπει να φροντίσω και για τα
+            χειρόγραφά του. Εσύ τι λες; Τι θα κάνετε για να τον γνωρίσει καλύτερα το κοινό μας; </p>
+         <p>Φίλησέ μου τον <persName>
+               <forename>Τάσο</forename></persName>. Πολύ τον πεθύμησα. Πες σε παρακαλώ του<persName><surname>
+                  Ραυτόπουλου</surname></persName> πως δεν τον ξεχνώ, θα του γράψω, όπως και του <persName><surname>Λεβάντα.</surname></persName> </p>
+         <closer>
+            <salute>Σε φιλώ</salute>
+            <signed><persName><forename>Σ </forename><surname>Τσίρκας</surname></persName>
+            </signed>
+         </closer>
+      </div>
+      </body>
+   </text>
+</TEI>

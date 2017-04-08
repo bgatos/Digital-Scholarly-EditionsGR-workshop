@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Πιλοτική ψηφιακή έκδοση αλληλογραφίας</title>
+            <editor>Αννα-Μαρία Σιχάνη<email>anna-maria.sichani@huygens.knaw.nl</email></editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <ref target="https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">
+                  Σεμινάριο DiXiT, 24-28 Απριλίου 2017</ref>
+            </publisher>
+            <date when="2017-03-06"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="CD-rom">
+               <title> Πιλοτικό Πρόγραμμα Ψηφιακής Έκδοσης Αλληλογραφίας: Η Περίπτωση της
+                  Αλληλογραφίας Τσίρκα και Παπαϊωάννου</title>
+               <publisher>Μορφωτικό Ίδρυμα Εθνικής Τραπέζης - Εθνικό Λογοτεχνικό και Ιστορικό
+                  Αρχείο</publisher>
+               <date>2004</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#MP"><surname> Παπαϊωάννου
+                  </surname><forename>Μ.Μ.</forename></persName>
+               <date when="1958-04-08"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#ST">
+                  <surname>Τσίρκας</surname><forename> Στρατής</forename></persName>
+               <placeName>Αλεξάνδρεια</placeName>
+               <date notBefore="1958-04-08" notAfter="1958-04-09" cert="medium"/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+        <div type="letter">
+        
+              <opener>
+               <salute> Αγαπητέ μου
+               <persName>
+                  <forename>Γιάννη</forename>
+               </persName>
+            </salute>
+            </opener>
+         
+           <p>Πήρα έναν τόμο β’ <bibl><title>Αισθητικά – Κριτικά </title>του<author>Βάρναλη</author> </bibl> για σένα μα για ν’ αποφύγω τη
+               φασαρία του ταχυδρομείου σου στέλνω εσώκλειστα τα κομμάτια που αναφέροντα[ι] στον
+               Καβάφη. Κι όταν έρθεις σου παραδίδω τον τόμο. Μην ξεχάσεις να φέρεις μαζί σου και το
+              <bibl><title>«Στραβόξυλο»</title> του<author> Νικολαΐδη</author></bibl>. Φωτογραφία σου βρέθηκε. </p>
+            
+         <closer><salute>Σας φιλώ</salute>
+               <signed>
+                  <persName><forename>Μιχάλης</forename></persName></signed>
+               <dateline>8/4/58</dateline>
+            </closer>
+            <postscript>
+               <label>Υ.Γ.</label>
+            <p>Ο <persName><surname>Βάρναλης </surname></persName>είναι άρρωστος. Σήμερα μπήκε στην κλινική του Σμπαρούνη για εγχείριση
+               προστάτου. Μόλις το έμαθα –<date> μεσάνυχτα Τρίτης</date>. Αύριο θα πάω να τον ιδώ.
+               Μ[μονογραφή]</p>
+            
+           </postscript>
+        </div>
+      </body>
+   </text>
+</TEI>

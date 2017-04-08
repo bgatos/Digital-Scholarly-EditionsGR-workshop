@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Πιλοτική ψηφιακή έκδοση αλληλογραφίας</title>
+            <editor>Αννα-Μαρία Σιχάνη<email>anna-maria.sichani@huygens.knaw.nl</email></editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <ref target="https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">
+                  Σεμινάριο DiXiT, 24-28 Απριλίου 2017</ref>
+            </publisher>
+            <date when="2017-03-06"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="CD-rom">
+               <title> Πιλοτικό Πρόγραμμα Ψηφιακής Έκδοσης Αλληλογραφίας: Η Περίπτωση της
+                  Αλληλογραφίας Τσίρκα και Παπαϊωάννου</title>
+               <publisher>Μορφωτικό Ίδρυμα Εθνικής Τραπέζης - Εθνικό Λογοτεχνικό και Ιστορικό
+                  Αρχείο</publisher>
+               <date>2004</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#ST"><surname> Τσίρκας
+                  </surname><forename>Στρατής</forename></persName>
+               <placeName>Αλεξάνδρεια</placeName>
+               <date when="1957-03-25"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#MP">
+                  <surname>Παπαϊωάννου</surname><forename> Μ.Μ.</forename></persName>
+               <placeName>Αθήνα</placeName>
+               <date notBefore="1957-03-25" notAfter="1957-04-02" cert="medium"/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+         <opener>
+            <dateline><placeName>Αλεξ.</placeName> 25 Μαρτίου 1957</dateline>
+            <salute>Αγαπητέ μου Μιχάλη</salute>
+         </opener>
+
+         <p> Δυο λόγια βιαστικά για να προφτάσω. Ο <persName><forename>Τάκης
+            </forename></persName>μου λέει πως το βιβλίο μου τυπώνεται προσεχώς. Μακάρι, αλλά και να
+            μην είναι αλήθεια μη χαλάς την καρδιά σου. Πάντως μη λογαριάζεις απάνω μου για
+            διορθώσεις ή υποδείξεις γιατί εγώ στις <date when="1957-04-12">12 Απριλίου</date> φεύγω
+            για το <placeName>Βερολίνο</placeName>. Ετοιμάζω μια ανακοίνωση στο Συνέδριο: Κ.Π.
+            Καβάφη: Περιμένοντας τους βαρβάρους – Πηγές του ποιήματος και περιστάσεις της σύνθεσής
+            του. </p>
+            <p>Αλλά τι λέω; Εσύ δεν θάρθεις; Δύσκολο ή αδύνατο; Κι ο <persName><forename> Τάσος </forename></persName>; Πες του να χαρείς πως
+            πηγαίνω ίσως αυτό σας κάνει και τους δυο να τ’ αποφασίσετε. Ποιος άλλος θα πάει;
+                  Ο<persName><surname> Ρίτσος</surname></persName>; Φυσικά ο
+                  <persName><forename>Άγις </forename><surname>Θέρος</surname></persName>. Μα ο
+                  <persName><surname>Αυγέρης</surname></persName>; </p>
+         <p>Περιμένω δυο λόγια από σένα ή τον <persName><forename>Τάσο</forename></persName>.</p>
+         <p>Παρακαλώ τον διορθωτή του βιβλίου μου να προσέξει τις ξενικές λέξεις και τα ονόματα.
+            Στην <bibl type="journal"><title>«Αυγή»</title></bibl> πριν λίγο καιρό αναδημοσιέψανε το
+            <bibl type="article"><title>«Πάλεμα με τη σμύρνα»</title></bibl>. Παντού όπου λέω Αλμπινός ή
+            αλμπινός, αυτοί βάλανε Αλμπ<emph>ρι</emph>νός. Τι διάβολο δεν ξέρουν τι είναι ο
+            αλμπινός; </p>
+         <p>Με συγχωρείς που σου γράφω τόσο σπασμωδικά. Έχω πολλές δουλειές να τελειώσω πριν
+            φύγω.-</p>
+         <p>Τι έπαθες πια και βουβάθηκες;</p>
+         <closer>
+            <salute>Σε φιλώ 
+               <persName>ΣΤσίρκας</persName>
+            </salute>
+         </closer>
+     </div>
+    </body>
+   </text>
+</TEI>

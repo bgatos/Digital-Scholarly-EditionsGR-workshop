@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Πιλοτική ψηφιακή έκδοση αλληλογραφίας</title>
+                <editor>Αννα-Μαρία Σιχάνη<email>anna-maria.sichani@huygens.knaw.nl</email></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">
+                        Σεμινάριο DiXiT, 24-28 Απριλίου 2017</ref>
+                </publisher>
+                <date when="2017-03-06"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/3.0/">CC-BY
+                        3.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="CD-rom">
+                    <title> Πιλοτικό Πρόγραμμα Ψηφιακής Έκδοσης Αλληλογραφίας: Η Περίπτωση της
+                        Αλληλογραφίας Τσίρκα και Παπαϊωάννου</title>
+                    <publisher>Μορφωτικό Ίδρυμα Εθνικής Τραπέζης - Εθνικό Λογοτεχνικό και Ιστορικό
+                        Αρχείο</publisher>
+                    <date>2004</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#MP"><surname> Παπαϊωάννου
+                        </surname><forename>Μ.Μ.</forename></persName>
+                    <date when="1956-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#ST">
+                        <surname>Τσίρκας</surname><forename> Στρατής</forename></persName>
+                    <placeName>Αλεξάνδρεια</placeName>
+                    <date notBefore="1956-02-18" notAfter="1956-02-22" cert="medium"/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="postcard">
+                
+                <div type="figure">
+                    <p>  Ναύπλιον Παλαμήδι<lb/> <foreign xml:lang="en">Nafplion Palamidi</foreign><lb/>Athens-Greece P.O.B.<unclear reason="damage"/> </p>
+                </div>
+                <pb/>
+                <div type="content">
+                <opener>
+                    <dateline>18/2/56</dateline>
+                    <salute> Αγαπητέ μου <persName><forename>Στρατή</forename></persName>
+                    </salute>
+                </opener>
+                <p>Σ’ εγκατέλειψα και θα σκέφτεσαι δεν ξέρω και γω τι για μένα. Έπεσα και πάλι στη
+                    βιοπάλη. Ένας εκδοτικός οίκος μου ανέθεσε την έκδοση των <bibl><title>Απάντων</title> του <author>Χριστόφορου
+                        Περραιβού </author></bibl>«εξ απροόπτου» και επνίχτηκα κυριολεχτικά. </p>
+                <p> Ελπίζω στο τέλος του μήνα να είμαι σε θέση να σου γράψω εκτεταμένα. Θα σου
+                    στείλω και μερικές επιφυλλίδες για τα θέματα της παρακμής.</p>
+                    <p>Χαιρετισμούς στη γυναίκα σου, στο <persName><surname>Μαλάνο</surname></persName> και σ’ όλους σας αυτού στην αραπιά.</p>
+                    <p>Εσύ θα μου γράψεις; Σε παρακαλώ. Πες μου και για τον <bibl><title>Καβάφη</title></bibl> σου τίποτα.</p>
+                <closer> <salute>Σε φιλώ
+                </salute>
+                    <signed>Μιχάλης</signed></closer>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
