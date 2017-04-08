@@ -48,7 +48,7 @@
       <body>
          <div type="letter">
             <opener>
-               <dateline>21/6/55</dateline>
+               <dateline when="1955-06-21">21/6/55</dateline>
                <salute>Αγαπητέ μου <persName>Στρατή</persName></salute>
             </opener>
             <p> Αν έχω τα <bibl type="book"><title>«Γράμματα»</title></bibl> θα ετοιμάσω μια συλλογή

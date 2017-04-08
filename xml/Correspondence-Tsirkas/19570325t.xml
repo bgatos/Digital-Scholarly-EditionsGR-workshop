@@ -49,7 +49,7 @@
       <body>
          <div type="letter">
          <opener>
-            <dateline><placeName>Αλεξ.</placeName> 25 Μαρτίου 1957</dateline>
+            <dateline when="1957-03-25"><placeName>Αλεξ.</placeName> 25 Μαρτίου 1957</dateline>
             <salute>Αγαπητέ μου Μιχάλη</salute>
          </opener>
 
