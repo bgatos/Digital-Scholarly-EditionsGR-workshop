@@ -4,3 +4,6 @@
 
  <h3>Βασικά κεφάλαια της ενότητας:</h3>
 <ul>
+<li>out-of-the-box λύσεις όπως oXygen transformation, Boilerplate, CETEIcean, TEIPublisher</li>
+<li>άσκηση κυρίως στο CETEICean</li>
+</ul>
