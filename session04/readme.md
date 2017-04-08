@@ -4,6 +4,6 @@
 
  <h3>Βασικά κεφάλαια της ενότητας:</h3>
 <ul>
-<li> πώς κωδικοποιώ ονόματα, ημερομηνίες, μέρη</li>
+<li> πώς κωδικοποιώ ονόματα, ημερομηνίες, μέρη (ΤΕΙ ενότητα http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html) </li>
 <li> thesauri, λεξιλόγια, linkew open data-external authorities </li>
 <li>ασκήσεις στην κωδικοποίηση ονομάτων, ημερομηνίων και μερών</li>
