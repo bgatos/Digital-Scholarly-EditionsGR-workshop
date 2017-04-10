@@ -5,6 +5,6 @@
  <h3>Βασικά κεφάλαια της ενότητας:</h3>
 <ul>
 
-- View the Slides [here](TEIcustomizationSlides)
+- View the Slides [here](TEIcustomizationSlides.md)
 
 - Exercise: Using Roma. [here](exerciseRoma.md)
