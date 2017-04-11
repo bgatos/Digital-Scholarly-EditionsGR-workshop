@@ -13,7 +13,7 @@
 </ul>
 
 
-<h3>Την ομάδα του Δημόκριτου συμμετέχουν οι:</h3>
+<h3>Την ομάδα του Δημόκριτου αποτελούν οι:</h3>
 <ul>
 <li>Βασίλης Γάτος (http://users.iit.demokritos.gr/~bgat/)</li>
 <li>Γιώργος Λουλούδης (http://users.iit.demokritos.gr/~louloud/)</li>
