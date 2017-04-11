@@ -20,4 +20,6 @@
 <li><a href="http://users.iit.demokritos.gr/~nstam/">Νίκος Σταματόπουλος</a></li>
 <li><a href="http://www.cs.uoi.gr/~sfikas/">Γιώργος Σφήκας</a></li>
 <li><a href="http://users.iit.demokritos.gr/~georgeretsi/">Γιώργος Ρετσινάς</a></li>
+                        
+            
 </ul>
