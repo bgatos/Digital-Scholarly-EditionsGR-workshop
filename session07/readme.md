@@ -10,4 +10,14 @@
 <li>Περιγραφή της πλατφόρμας <a href="https://transkribus.eu/Transkribus/">transkribus</a></li>
 <li>Εφαρμογή της πλατφόρμας <a href="https://transkribus.eu/Transkribus/">transkribus</a> για την επεξεργασία ιστορικών χειρογράφων</li>
 
+</ul>
+
+
+<h3>Την ομάδα του Δημόκριτου συμμετέχουν οι:</h3>
 <ul>
+<li>Βασίλης Γάτος (http://users.iit.demokritos.gr/~bgat/)</li>
+<li>Γιώργος Λουλούδης (http://users.iit.demokritos.gr/~louloud/)</li>
+<li>Νίκος Σταματόπουλος (http://users.iit.demokritos.gr/~nstam/)</li>
+<li>Γιώργος Σφήκας (http://www.cs.uoi.gr/~sfikas/)</li>
+<li>Γιώργος Ρετσινάς (http://users.iit.demokritos.gr/~georgeretsi/)</li>
+</ul>
