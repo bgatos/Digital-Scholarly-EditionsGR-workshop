@@ -15,7 +15,7 @@
 
 <h3>Την ομάδα του Δημόκριτου αποτελούν οι:</h3>
 <ul>
-<li> <a href="http://users.iit.demokritos.gr/~bgat/">Βασίλης Γάτος"</a></li>
+<li> <a href="http://users.iit.demokritos.gr/~bgat/">Βασίλης Γάτος</a></li>
 <li><a href="http://users.iit.demokritos.gr/~louloud/">Γιώργος Λουλούδης</a></li>
 <li><a href="http://users.iit.demokritos.gr/~nstam/">Νίκος Σταματόπουλος</a></li>
 <li><a href="http://www.cs.uoi.gr/~sfikas/">Γιώργος Σφήκας</a></li>
