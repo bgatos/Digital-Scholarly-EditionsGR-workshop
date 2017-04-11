@@ -15,9 +15,9 @@
 
 <h3>Την ομάδα του Δημόκριτου αποτελούν οι:</h3>
 <ul>
-<li>[Βασίλης Γάτος](http://users.iit.demokritos.gr/~bgat/)</li>
-<li>[Γιώργος Λουλούδης](http://users.iit.demokritos.gr/~louloud/)</li>
-<li>[Νίκος Σταματόπουλος](http://users.iit.demokritos.gr/~nstam/)</li>
-<li>[Γιώργος Σφήκας](http://www.cs.uoi.gr/~sfikas/)</li>
-<li>[Γιώργος Ρετσινάς](http://users.iit.demokritos.gr/~georgeretsi/)</li>
+<li> <a href="http://users.iit.demokritos.gr/~bgat/">Βασίλης Γάτος"</a></li>
+<li><a href="http://users.iit.demokritos.gr/~louloud/">Γιώργος Λουλούδης</a></li>
+<li><a href="http://users.iit.demokritos.gr/~nstam/">Νίκος Σταματόπουλος</a></li>
+<li><a href="http://www.cs.uoi.gr/~sfikas/">Γιώργος Σφήκας</a></li>
+<li><a href="http://users.iit.demokritos.gr/~georgeretsi/">Γιώργος Ρετσινάς</a></li>
 </ul>
