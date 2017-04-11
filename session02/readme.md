@@ -10,8 +10,8 @@
 
 <li>Τι είναι η XML; 
 <ul>
-<li>ετικέτες, στοιχεία,  (tags, elements, attributes) </li>
-<li>well formed, nested  ,valid</li></ul>
+<li>ετικέτες, στοιχεία, ιδιότητες (tags, elements, attributes) </li>
+<li>well-formed, nested, valid</li></ul>
 </li>
 
 <li>ανοίγοντας το Oxygen</li>
