@@ -9,7 +9,7 @@
 <li> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html">βασική δομή και κύρια στοιχεία (high-level structure) </a></li>
 <li> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html">ΤΕΙ header </a></li>
 <li>τι είναι το schema;</li>
-<li> κοινότητα ΤΕΙ</li>
+<li> <a href="http://members.tei-c.org/">κοινότητα ΤΕΙ</a></li>
 <li>ασκήσεις ανάλυσης και κωδικοποίησης κειμένου </li>
 </ul>
 
