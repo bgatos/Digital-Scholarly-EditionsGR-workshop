@@ -1,7 +1,7 @@
 
 <h1>ενότητα 12: Κεντρική ομιλία </h1>
 
-Κεντρικός ομιλητής της εκδήλωσης είναι ο Mats Dahlström (Associate professor, Swedish School of Library and Information Science,UC Borås, Sweden)</lb>
+Κεντρικός ομιλητής της εκδήλωσης είναι ο **Mats Dahlström** (Associate professor, Swedish School of Library and Information Science,UC Borås, Sweden)</lb>
  <h3> Light and shadows : digitization, digital facsimiles and scholarly editing</h3>
  <h2>abstract</h2>
 However you define the field of digital humanities (DH), it usually revolves around digital and in particular digitized objects, often housed at and digitized by a memory institution such as a library. Such digital reproductions are present and important for a number of DH projects, including digital scholarly editions (DSE). The digital facsimiles are not only used as mere illustrations supporting a scholarly text transcription, but can also serve as research tools and as instruments for accountability and accessibility. 
