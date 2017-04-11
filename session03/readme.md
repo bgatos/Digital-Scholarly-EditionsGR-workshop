@@ -4,9 +4,11 @@
 
  <h3>Βασικά κεφάλαια της ενότητας:</h3>
 <ul>
-<li> τι είναι το πρότυπο ΤΕΙ και γιατί είναι χρήσιμο; </li>
-<li> βασική δομή και κύρια στοιχεία (header , body) </li>
-<li> τι είναι το schema</li>
+<li> τι είναι το πρότυπο <a href="http://www.tei-c.org/">ΤΕΙ</a> και γιατί είναι χρήσιμο; </li>
+<li> ΤΕΙ ενότητες </li>
+<li> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DS.html">βασική δομή και κύρια στοιχεία (high-level structure) </a></li>
+<li> <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html">ΤΕΙ header </a></li>
+<li>τι είναι το schema;</li>
 <li> κοινότητα ΤΕΙ</li>
 <li>ασκήσεις ανάλυσης και κωδικοποίησης κειμένου </li>
 </ul>
