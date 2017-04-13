@@ -1,105 +1,236 @@
-What is, Why  and How to make a TEI schema (ODD)
+TEI Customization - ODD and schema
 ========================================================
 author: DiXiT Workshop 'Scholarly Digital Editions and Modern Greek Studies'
 date: Athens, 24-28 April 2017
 autosize: true
 
 
-Credits and links
-==============
-<small>
 
-These slides reuse materials from
+CHAPTER 1
+=========
 
-- the TEI-C resources, and in particular
-  - <http://www.tei-c.org/Guidelines/Customization/odds.xml>
-  - <http://www.tei-c.org/Guidelines/Customization/use_roma.xml>
+# Have we met before?
 
-- the Women Writers Project educational resources, and in particular
-  - <http://www.wwp.northeastern.edu/outreach/resources/customization.html>
-  - <http://www.wwp.northeastern.edu/outreach/seminars/_current/handouts/exercise-roma.xhtml>
-  
-  Please visit these links if you want to know more!
-</small>
+
+Well formed and valid
+========================
+<br/>
+Remember?
+<br/><br/>
+- An XML document is **well formed** when it complies with the XML syntax
+<br/><br/>
+- An XML document is **valid** against a schema
+
+
+Associate schema to a document
+=======================
+
+<img src="images/teiall.png">
+
+***
+
+<img src="images/help.jpg">
+
+Schema helps you!
+
+Suggestions, code completion, pop-up descriptions ...
+
+
+
+Associate schema to a document
+=========================
+<img src="images/teiall.png">
+
+
+***
+
+<img src="images/angryfingershe.jpg" width="30%">&#8195;
+<img src="images/angryfingerhe.jpg" width="30%">
+
+Schema controls you!
+
+Red square, error messages, invalid document ...
 
 
 A schema
 ========================
-
-- defines a vocabulary and a grammar, that is which elements and attributes are to be used, where and how (for example, which element you can use inside another element!)
-
-- gives consistency to the encoding
-
-- most importantly: it represents in a structured form your understanding of and approach towards the text to be encoded
-
-
-Well formed or valid?
-========================
-
-- An XML document is **well formed** when it complies with the XML syntax (remember the *golden rules*!)
+<br/>
+## defines **vocabulary** and **grammar**
+<br/>
+### which elements and attributes are to be used, where and how 
+<br/>
+e.g. which element you can use inside another element, which values you can give to an attribute
 
 
-- An XML document is **valid** against a schema
+===============
 
+<img src="images/angryfingershe.jpg" width="23%">&#8195;&#8195;
+<img src="images/help.jpg" width="30%">&#8195;&#8195;
+<img src="images/angryfingerhe.jpg" width="23%">
+<br/>
+<br/>
 
-Existing Schemas
-=========================
-<small>
-TEI offers some community-maintained (ready-to-use) schemas; but it suggests to prepare a **customized** one, that better addresses your specific needs.
+The good news is . . .
+<br/>
 
-Here are some of the schemas made available and maintained by the TEI:
+## that you can create or adjust the schema !
 
-- **tei\_all** includes all elements and attributes and the rules for using them
-- **tei\_lite** is a selection of elements and attributes, which allows for a basic encoding of a variety of texts
-- **tei\_drama** is a selection of elements and attributes for encoding performance texts, for example theatre and cinema
-- **tei\_speech** is a selection of elements and attributes for encoding transcription of speech and spoken texts
-
-More at <http://www.tei-c.org/Guidelines/Customization/>
-</small>
-
-
-Associating a schema to a document
-=========================
-<img src="images/teiall.png" width="80%">
-
-Let's try to change the schema associated with a document. What happens?
 
 TEI customization
 ===================
-
 <img src="images/tei_areas.jpg">
 
 ***
 
 Customization of the TEI is motivated by two really important things:
 
-- the diverse disciplinary needs and concerns of the TEI community
+- the **diverse disciplinary needs and concerns** of the TEI community
 
-- The goal of reconciling the need for a common encoding language with the need for expressiveness
+- The goal of reconciling the need for a **common encoding language** with the need for **expressiveness**
 
 
-ODD and schema formats
+Community-maintained TEI schemas
 =========================
-An **ODD** (One Document Does it All) is a XML document that contains the schema **and** all the relative documentation (prose and structured).
+<br/>
 
-An ODD can be transformed in one of the formats suitable for a schema (DTD, RELAX NG schema o W3C Schema), using the web application Roma and in [other ways](http://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/customization/customization_overview_tutorial_13.xhtml).
+- **tei\_all** 
+- **tei\_lite** (light and basic encoding)
+- **tei\_drama** (performance texts)
+- **tei\_speech** (speech and spoken texts)
+
+<small>
+More at <http://www.tei-c.org/Guidelines/Customization/>
+</small>
+<br/><br/><br/>
+Have you met them before?
 
 
-ODD and schema formats
+Community-maintained TEI schemas
+=========================
+<br/>
+
+- **tei\_all** 
+- **tei\_lite** (light and basic encoding)
+- **tei\_drama** (performance texts)
+- **tei\_speech** (speech and spoken texts)
+
+<small>
+More at <http://www.tei-c.org/Guidelines/Customization/>
+</small>
+<br/><br/><br/>
+Have you met them before? Yes, they are available in **oXygen** thanks to its TEI framework.
+
+
+
+What happens if you change the schema?
+=========================
+<img src="images/teiall.png" width="60%">
+
+Among the community-maintained schemas: 
+
+- tei_all 
+- tei_lite
+
+
+
+Recap
 ========================
-<img src="images/tei_odd_customization_detail_iconed.png"/>
+<br/>
+## A schema defines **vocabulary** and **grammar** 
+#### which elements and attributes are to be used, where and how 
+
+# &#8679;
+
+#### it represents in a structured and formalized way
+## your **understanding of** and **approach towards** 
+## the text to be encoded
 
 
-ODD and schema formats
+=================
+
+*A note on terminology:*
+<br/><br/>
+## TEI Customization = TEI Schema
+<br/>
+#### If you want to mark a difference, you can refer to the 
+#### TEI Customization as the model  
+#### and to the 
+#### TEI Schema as the document where that model is implemented
+
+
+
+=========================
+## **ODD** (One Document Does it All) 
+<br/>
+
+- TEI document (that is a XML document)
+- schema (for the machine)
+- documentation (for the user, like the Guidelines)
+
+<br/>
+
+=========================
+## **ODD** (One Document Does it All) 
+<br/>
+
+- TEI document (that is a XML document)
+- schema (for the machine)
+- documentation (for the user, like the Guidelines)
+
+<br/>
+
+#### E.g. ***tei\_dixit.xml*** or you can change the extension to ***tei\_dixit.odd***
+
+
+
+Schema formats
+==========================
+left: 30%
+
+<img src="images/teiall.png">
+
+***
+
+<br/>
+*Do we associate the ODD to the document?*
+<br/>
+
+#### No! Most of the time we need to convert the ODD in a format the the XML processor will recognize as a schema.
+
+- Which are this formats? DTD, RELAX NG schema, W3C Schema, etc.
+
+- How do I generate a schema from an ODD? Using the web application Roma (we will do it) and in [other ways](http://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/customization/customization_overview_tutorial_13.xhtml).
+
+
+The ODD tree
+=============
+<img src="images/odd-tree.png">
+
+
 ========================
 <img src="images/odd_stack.png">
+<small>[A view of the whole system](http://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/basic_odd/basic_odd_simple_tutorial_13.xhtml)</small>
+<br/><small><small><small><small>From: Syd Bauman, Julia Flanders, and the Women Writers Project</small></small></small></small>
 
 
-The TEI Guidelines
+========================
+<img src="images/tei_odd_customization_detail_iconed.png"/>
+<small>[TEI customization under the hood (in a nutshell)](http://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/customization/customization_overview_tutorial_12.xhtml)</small>
+<br/><small><small><small><small>From: Syd Bauman, Julia Flanders, and the Women Writers Project</small></small></small></small>
+
+
+
+Chapter 2
+===============
+# The TEI bricks
+
+
+The TEI is ...
 ===========
-Not only a [big list of elements](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/REF-ELEMENTS.html) ...
-
-They are structured in modules and classes!
+<br/><br/>
+not only a [big list of elements](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/REF-ELEMENTS.html) ...
+<br/><br/><br/>
+They are structured in modules and classes
 
 Elements
 ==============
@@ -152,6 +283,11 @@ The class system
 And now ... [exercise time](exerciseClasses.pdf) (3 mins :)
 
 
+Chapter 3
+================
+Customizing the TEI
+
+
 Customization options
 =====================
 Options for customization:
@@ -164,6 +300,7 @@ Options for customization:
 - Constrain structure
 - Manipulate functional groupings of elements
 - Produce an internationalized version of the TEI
+
 
 TEI under the hood (in a nutshell)
 ==================================
@@ -280,6 +417,22 @@ Subsequent pages have a row of tabs for each of the major tasks involved in maki
 
 WORK IN PROGRESS ...
 
+Credits and links
+==============
+<small>
+
+These slides reuse materials from
+
+- the TEI-C resources, and in particular
+  - <http://www.tei-c.org/Guidelines/Customization/odds.xml>
+  - <http://www.tei-c.org/Guidelines/Customization/use_roma.xml>
+
+- the Women Writers Project educational resources, and in particular
+  - <http://www.wwp.northeastern.edu/outreach/resources/customization.html>
+  - <http://www.wwp.northeastern.edu/outreach/seminars/_current/handouts/exercise-roma.xhtml>
+  
+  Please visit these links if you want to know more!
+</small>
 
 ==========
 Elena Spadini
