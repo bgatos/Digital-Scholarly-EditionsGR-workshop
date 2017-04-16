@@ -6,10 +6,12 @@ autosize: true
 
 
 
-CHAPTER 1
+CHAPTER 0
 =========
 
 # Have we met before?
+
+<img src="images/metbeforeveg.png"/><br/><small><small><small><small>[laundrysoapman25.deviantart.com](http://laundrysoapman25.deviantart.com/art/Have-we-met-before-432485592)</small></small></small></small>
 
 
 Well formed and valid
@@ -17,9 +19,40 @@ Well formed and valid
 <br/>
 Remember?
 <br/><br/>
-- An XML document is **well formed** when it complies with the XML syntax
+- An XML document is well formed when it complies with the XML syntax
 <br/><br/>
-- An XML document is **valid** against a schema
+- An XML document is valid against a **schema**
+<br/><br/><br/><br/><br/><br/>
+
+
+========================
+<img src="images/metbeforeveg.png" width="30%"/>
+<br/><br/><br/><br/>
+## ... Where ?
+
+
+=======================
+<img src="images/teiall.png">
+
+=========================
+<img src="images/metbeforeveg.png" width="30%"/>
+<br/><br/><br/><br/>
+## ... Why ?
+
+
+A schema
+========================
+<br/>
+## defines **vocabulary** and **grammar**
+<br/>
+### which elements and attributes are to be used, where and how 
+<br/>
+e.g. which element you can use inside another element, which values you can give to an attribute
+
+
+Chapter 1
+======================
+# TEI Customization
 
 
 Associate schema to a document
@@ -51,15 +84,6 @@ Schema controls you!
 
 Red square, error messages, invalid document ...
 
-
-A schema
-========================
-<br/>
-## defines **vocabulary** and **grammar**
-<br/>
-### which elements and attributes are to be used, where and how 
-<br/>
-e.g. which element you can use inside another element, which values you can give to an attribute
 
 
 ===============
@@ -118,22 +142,10 @@ Community-maintained TEI schemas
 More at <http://www.tei-c.org/Guidelines/Customization/>
 </small>
 <br/><br/><br/>
-Have you met them before? Yes, they are available in **oXygen** thanks to its TEI framework.
+Have you met them before? <br/>Yes, they are available in **oXygen** through its TEI framework.
 
 
-
-What happens if you change the schema?
-=========================
-<img src="images/teiall.png" width="60%">
-
-Among the community-maintained schemas: 
-
-- tei_all 
-- tei_lite
-
-
-
-Recap
+Recap (theory)
 ========================
 <br/>
 ## A schema defines **vocabulary** and **grammar** 
@@ -143,20 +155,27 @@ Recap
 
 #### it represents in a structured and formalized way
 ## your **understanding of** and **approach towards** 
-## the text to be encoded
+## the text to be encoded (scientific choices)
+
+Recap (practice)
+=========================
+<img src="images/teiall.png">
+
+What happens if you change the schema?
 
 
-=================
 
-*A note on terminology:*
-<br/><br/>
-## TEI Customization = TEI Schema
-<br/>
-#### If you want to mark a difference, you can refer to the 
-#### TEI Customization as the model  
-#### and to the 
-#### TEI Schema as the document where that model is implemented
+Chapter 2 
+=============================
+# ODD (One document does it all)
 
+
+============================
+## A TEI Customization
+## comes in the form of / is referred as 
+## an ODD
+<br/><br/><br/>
+... What is an ODD?
 
 
 =========================
@@ -180,26 +199,6 @@ Recap
 <br/>
 
 #### E.g. ***tei\_dixit.xml*** or you can change the extension to ***tei\_dixit.odd***
-
-
-
-Schema formats
-==========================
-left: 30%
-
-<img src="images/teiall.png">
-
-***
-
-<br/>
-*Do we associate the ODD to the document?*
-<br/>
-
-#### No! Most of the time we need to convert the ODD in a format the the XML processor will recognize as a schema.
-
-- Which are this formats? DTD, RELAX NG schema, W3C Schema, etc.
-
-- How do I generate a schema from an ODD? Using the web application Roma (we will do it) and in [other ways](http://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/customization/customization_overview_tutorial_13.xhtml).
 
 
 The ODD tree
@@ -234,45 +233,46 @@ They are structured in modules and classes
 
 Elements
 ==============
-left: 30%
-
+<br/>
 <img src="images/tei_as_lego.png">
 
 ***
 
-TEI has some 550 elements and a very large number of attributes!
++/- 550 elements and a very large number of attributes!
 
-They are grouped into **modules** that represent the kinds of texts or features being represented: for instance, poetry, or manuscripts, or dictionaries.
+Grouped into:
 
-They are also grouped into **classes** that divide them by their functions, by the kinds of things the elements can do: for instance, elements that are parts of bibliographic items, or attributes that are needed on pointing elements.
+- **modules**
+
+- **classes** 
 
 
-Modules
+Modules = lego kits
 ===================
 left: 30%
-
+<br/>
 <img src="images/TEI_modules_simple.png">
 
 ***
+<br/>
+- Basic and specialized kits
 
-Modules are like lego kits for making specific kinds of things(like helicopters or castels). There are basic kits and specialized kits.
+- Each module corresponds to [a **chapter** in the TEI guidelines](http://tei-c.org)
 
-- Each module corresponds to a chapter in the TEI guidelines
-- Each element belongs to one and only one module.
+- Each element belongs to one and only one module
 
 
 The class system
 ============================
-We can think of the TEI class system as a way of grouping together elements that **behave in the same way** and that tend to **go in the same place**.
+<br/><br/>
+### A class groups elements or attributes that **behave in the same way** and that tend to **go in the same place**.
+<br/><br/>
+- Classes of elements are named model.*the class* (e.g. **model.global**)
 
-- Classes of elements are named model.*the class* (e.g. model.global)
-
-Attribute classes are very similar: they are **groupings of attributes that are related**, so that when you want one of them, you typically want most of them.
-
-- Classes of attributes are named att.*the class* (e.g. att.global)
+- Classes of attributes are named att.*the class* (e.g. **att.global**)
 
 
-The class system. Some classes of elements
+Examples
 ============================
 <img src="images/tei_classes_conceptual4.png">
 
@@ -285,137 +285,93 @@ And now ... [exercise time](exerciseClasses.pdf) (3 mins :)
 
 Chapter 3
 ================
-Customizing the TEI
+# Customizing the TEI
 
 
-Customization options
 =====================
-Options for customization:
-
+## Customization options
+<br/>
 - Select modules
-- Delete unnecessary elements
+- Remove unnecessary elements
 - Add new elements or attributes
 - Change element or attribute names
 - Constrain attribute values
 - Constrain structure
-- Manipulate functional groupings of elements
+- Manipulate functional groupings of elements (classes)
 - Produce an internationalized version of the TEI
 
 
-TEI under the hood (in a nutshell)
 ==================================
-<img src="images/tei_odd_detail.png">
+left:40%
+
+## 1. Create the ODD 
+<br/>
+- manually writing it
+- using [Roma](http://www.tei-c.org/Roma/)
 
 ***
 
-<small>
-The TEI exists as a universe of possible schemas, and the actual schema (the "file") consists of a large number of little pieces representing the definitions of individual elements, attributes, classes, and so forth.
+============================
+left:40%
 
-The 'custom-made-car dealership' metaphor:
-- you select the parts: core + optional
-- the car is generated (including user manual!)
-</small>
-
-ODD is TEI
-======================
-
-This TEI universe of possible schemas (including your actual schema) are written using a specialized part of the TEI language: a special set of elements and attributes that are designed for describing and documenting the parts of a schema.
-
-
-TEI customization under the hood
-==========================
-left: 70%
-
-<img src="images/tei_odd_customization_detail_iconed.png">
+## 1. Create the ODD 
+<br/>
+- manually writing it
+- using [Roma](http://www.tei-c.org/Roma/)
 
 ***
 
-The ODD needs to be transformed into another format (RNG, RNC, DTD, ...) for being understood by XML processors
+## 2. Generate the schema
+(ODD ---> RNG, RNC, DTD, etc.)
+
+- web app  [Roma](http://www.tei-c.org/Roma/)
+- oXygen's built-in stylesheets
+- Oxford University's [OxGarage](http://oxgarage.oucs.ox.ac.uk:8080/ege-webclient/) multi-transformer
+- roma: a command-line tool
+- Complete list with links and instructions at WWP [ODD Processors page](http://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/customization/customization_overview_tutorial_13.xhtml)
 
 
-TEI customization under the hood
-========================
-<img src="images/odd_stack.png">
+Let's go to Roma!
+=========================
+<img src="images/teiRoma.png"/>
 
-
-ODD processors
-=======================
-The transformation 'ODD ---> RNG, RNC, DTD' can be made using one of the following
-
-- Roma: a web interface (available at the TEI site)
-- oXygen's built-in stylesheets (instructions)
-- Oxford University's OxGarage multi-transformer
-- roma: a command-line tool (installation instructions) that does all the conversions (RELAX NG, HTML, PDF, DTD, XML Schema, Schematron) at once
-- etc.
 
 Recap
 ==========================
-- **Customization**: reflects your scientific choices, reinforce consistency, document your work
+
+- ODD Customization reflects your scientific choices, reinforces consistency, documents your work
+
 
 Recap
 ==========================
-- **Customization**: reflects your scientific choices, reinforce consistency, document your work
 
-- A TEI document should be **well formed** (XML rules) and **valid** (schema rules)
+- ODD Customization reflects your scientific choices, reinforces consistency, documents your work
+
+- For creating an ODD Customization <--- manipulate (delete, add, change) the TEI bricks (elements, attributes, modules, classes)
+
+
 
 Recap
 ==========================
-- **Customization**: reflects your scientific choices, reinforce consistency, document your work
 
-- A TEI document should be **well formed** (XML rules) and **valid** (schema rules)
+- ODD Customization reflects your scientific choices, reinforces consistency, documents your work
 
-- The TEI Guidelines are organized with **elements**, **modules** and **classes** (for elements and attributes)
+- For creating an ODD Customization <--- manipulate (delete, add, change) the TEI bricks (elements, attributes, modules, classes)
+
+- From an ODD Customization ---> generate documentation and schema
+
 
 Recap
 ==========================
-- **Customization**: reflects your scientific choices, reinforce consistency, document your work
 
-- A TEI document should be **well formed** (XML rules) and **valid** (schema rules)
+- ODD Customization reflects your scientific choices, reinforces consistency, documents your work
 
-- The TEI Guidelines are organized with **elements**, **modules** and **classes** (for elements and attributes)
+- For creating an ODD Customization <--- manipulate (delete, add, change) the TEI bricks (elements, attributes, modules, classes)
 
-- The TEI Guidelines consists of a **universe of possible schemas**, from very large and permissive to very narrow and restrictive ... select the parts and **create yours**!
+- From an ODD Customization ---> generate documentation and schema
 
-Recap
-==========================
-- **Customization**: reflects your scientific choices, reinforce consistency, document your work
-- A TEI document should be **well formed** (XML rules) and **valid** (schema rules)
-- The TEI Guidelines are organized with **elements**, **modules** and **classes** (for elements and attributes)
-- The TEI Guidelines consists of a **universe of possible schemas**, from very large and permissive to very narrow and restrictive ... select the parts and **create yours**!
-- The TEI customization expressed in **ODD** is transformed in **other formats** (using **Roma** and other processors); the file generated will be the schema that you associate to your TEI document
+- A TEI document should be well formed (XML rules) and valid (schema rules)
 
-
-
-
-ROMA - <http://www.tei-c.org/Roma/>
-===============
-<small>
-The opening page for Roma offers several options
-
-- **Build schema**.
-This option allows you to start building your schema customization by starting with a very minimal schema and adding modules to it. This is a good starting point if you want to build a fairly small, tightly constrained schema.
-- **Reduce schema**. This option allows you to start building your schema customization by starting with a very large schema including all of the TEI modules, and then removing what you don't need. This is a good starting point if you want to build a very extensive schema including most of the TEI modules.
-- **Create customization from template**. This option allows you to build a schema starting from one of the templates listed in the accompanying menu; these serve as convenient starting points from which you can then make further modifications, such as adding or deleting modules or elements.
-- **Open existing customization**. This option allows you to upload an existing customization file, either one that you may already have saved, or one that you have received from someone else. You can then make further customizations to this file and save the revised version.
-</small>
-
-ROMA - Metadata of your customization
-================
-Enter some basic metadata about the schema specification you're creating:
-
-- **Title**: this is the title by which you refer to your schema; it will appear in the accompanying documentation and in the TEI header for your customization file.
-- **Filename**: this is the filename for your customization file (the name under which it will be saved on your computer)
-- **Prefix**: this is the prefix that will be used within the schema to designate TEI pattern names
-- **Language**: this allows you to choose a language for the Roma interface (it does not affect the language of the resulting schema or documentation)
-- **Author name**: the name of the author of the schema customization
-- **Description**: a brief description of the schema you're creating, perhaps with some explanation of what it is intended for. This description will appear as a descriptive paragraph at the start of your customization file.
-
-
-
-================
-Subsequent pages have a row of tabs for each of the major tasks involved in making a customization (Modules, Add elements, Change classes, and Language) for creating various outputs from a customization (Schema and Documentation) and for acting on your customization (New, Customize, and Save). Several of these tabs are explained briefly in the instructions that follow.
-
-WORK IN PROGRESS ...
 
 Credits and links
 ==============
@@ -425,21 +381,19 @@ These slides reuse materials from
 
 - the TEI-C resources, and in particular
   - <http://www.tei-c.org/Guidelines/Customization/odds.xml>
-  - <http://www.tei-c.org/Guidelines/Customization/use_roma.xml>
 
 - the Women Writers Project educational resources, and in particular
   - <http://www.wwp.northeastern.edu/outreach/resources/customization.html>
-  - <http://www.wwp.northeastern.edu/outreach/seminars/_current/handouts/exercise-roma.xhtml>
-  
+
   Please visit these links if you want to know more!
 </small>
 
 ==========
-Elena Spadini
+<small>Elena Spadini</small>
 
-DiXiT Workshop 'Scholarly Digital Editions and Modern Greek Studies'
+DiXiT Workshop ['Scholarly Digital Editions and Modern Greek Studies'](https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/)
 
 Athens, 24-28 April 2017
 
-CC-BY-NC-SA
+<small>Licence: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)</small>
 
