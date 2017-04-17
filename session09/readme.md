@@ -5,6 +5,6 @@
  <h3>Βασικά κεφάλαια της ενότητας:</h3>
 <ul>
 
-- View the Slides [here](TEIcustomizationSlides.md)
+- View the Slides [here](https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/TEIcustomizationSlides.html#/)
 
-- Exercise: Using Roma. [here](exerciseRoma.md)
+- Exercise: Using Roma [online](https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/exerciseRoma.html) or [pdf](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session09/exerciseRoma.pdf)

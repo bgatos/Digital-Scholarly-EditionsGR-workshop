@@ -257,7 +257,7 @@ left: 30%
 <br/>
 - Basic and specialized kits
 
-- Each module corresponds to [a **chapter** in the TEI guidelines](http://tei-c.org)
+- Each module corresponds to [a **chapter** in the TEI guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html)
 
 - Each element belongs to one and only one module
 
@@ -280,7 +280,7 @@ Examples
 The class system
 =========================
 
-And now ... [exercise time](exerciseClasses.pdf) (3 mins :)
+And now ... [exercise time](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session09/exerciseClasses.pdf) (3 mins :)
 
 
 Chapter 3

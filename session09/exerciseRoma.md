@@ -1,11 +1,12 @@
+---
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
 	
 # Working on Schema customization with ROMA
 
-This exercise reuses tutorials at
-
-- <http://www.wwp.northeastern.edu/outreach/seminars/_current/handouts/exercise-roma.xhtml> Licence: CC-BY-NC-SA
-
-- <http://www.tei-c.org/Guidelines/Customization/use_roma.xml> Licence: CC-BY
 
 ## Before you start
 In this exercise, you will use Roma, a web tool available from the TEI web site. You will need access to the internet and a web browser such as Firefox or Opera and once you have your schema you will also need an XML-aware editor to use it (e.g., oXygen).
@@ -29,7 +30,7 @@ These instructions do not cover some other capabilities of Roma, including addin
 
 In this exercise, we will start from an existing customization and we will edit it. 
 
-- Download the ODD file [tei_dixit.xml](odd/tei_dixit.xml) and save it on your computer.
+- Download the ODD file *tei_dixit.xml* <https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session09/odd/tei_dixit.xml.zip> (download the zip file and extract it; don't use the compressed file!) and save it on your computer.
 
 - Now, let's go to Roma: when you are on-line, point your favorite web browser to <http://www.tei-c.org/Roma/>.
 
@@ -150,7 +151,16 @@ For this exercise, we want to prepare a schema for encoding poems, and in partic
 
 That's all! Now you can Save the Customization and generate the Schema, as you did in the previous exercise. 
 
-You can test your schema on the poem you encoded in the very beginning of this workshop (also available [here](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/xml/poems_txt/karyotakis_soneto.xml)).
+You can test your schema on the poem you encoded in the very beginning of this workshop (also available at <https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/xml/poems_txt/karyotakis_soneto.xml.zip> Download the zip version and unzip it before using).
+
+
+---
+
+This exercise reuses tutorials at
+
+- <http://www.wwp.northeastern.edu/outreach/seminars/_current/handouts/exercise-roma.xhtml> Licence: CC-BY-NC-SA
+
+- <http://www.tei-c.org/Guidelines/Customization/use_roma.xml> Licence: CC-BY
 
 
 ---
