@@ -57,6 +57,13 @@
          </particDesc>
          <settingDesc>
             <listPlace>
+               <place xml:id="alexandria">
+                  <placeName>Alexandria</placeName>
+                  <country>Egypt</country>
+                  <location>
+                     <geo>31.200092, 29.918739</geo>
+                  </location>
+               </place>
                <place xml:id="cairo">
                   <placeName>Cairo</placeName>
                   <country>Egypt</country>
@@ -78,38 +85,38 @@
    <text>
       <body>
          <div type="letter">
-            <opener>
-               <dateline><date when="1956-03-01">1 Μάρτη 1956</date></dateline>
-            <salute>Αγαπημένε <persName ref="#MP">Μιχάλη</persName>,</salute>
+         <opener>
+            <dateline><placeName ref="#alexandria">Αλεξ.</placeName> <date when="1957-03-25">25 Μαρτίου 1957</date></dateline>
+            <salute>Αγαπητέ μου <persName ref="#MP"><forename>Μιχάλη</forename></persName></salute>
          </opener>
-         <p> Πήρα το γράμμα σου – πήρα και τις συνέχειες για την ποίηση της παρακμής. Μη μου
-            θυμώνεις που δε σου γράφω. Μόλις ησυχάσω θα το κάνω γιατί θέλω να συζητήσω μαζύ σου μια
-            πλευρά – την επίδραση της προοδευτικής δυτικής λογοτεχνίας που σα να την παραμερίζεις. </p>
-         <p>Ήξερα πως είχες δουλειά με τ’ απομνημονεύματα του
-               <persName><surname>Περαιβού</surname></persName>. Το διάβασα σε μια εφημερίδα.</p>
-         <p>Ο <bibl type="book">Καβάφης</bibl> καλά πηγαίνει. Γίνεται μεγάλο και σοβαρό βιβλίο. Έχω
-            έτοιμα, δαχτυλογραφημένα, να σου στείλω 2 κεφάλαια. Το ένα αναφέρεται στα Τείχη. Αυτό
-            που γράφω τώρα: Καταστάσεις της παρακμής, κανονίζει τον
-                  <persName><surname>Αυγέρη</surname></persName>, το
-                  <persName><surname>Μαλάνο</surname></persName> και τον
-                  <persName><surname>Περίδη</surname></persName>. Με ντοκουμέντα, όπως πάντα.</p>
-         <p>Ανακάλυψα επιτέλους τον υπηρεσιακό φάκελλο (Υπουργ. Δημ. Έργων) του
-            <persName><surname>Καβάφη</surname></persName>. Μεθαύριο, <date>Κυριακή</date>, πάω στο
-               <placeName ref="#cairo">Κάϊρο</placeName> γι’ αυτό. Περιμένω κι άλλα ευρήματα εκεί μέσα.</p>
-         <p>Αγόρασα τον Φάκελλο <persName><surname>Αναστασιάδη</surname></persName> για να μπορώ να
-            τον εξετάζω με την ησυχία μου. Κι άλλα, κι άλλα. Θα σου γράψω μόλις συνέρθω. Τώρα ζω
-            κάτω απ’ την συγκίνηση του αγωνιστικού θανάτου του
-                  <persName><surname>Νικολαΐδη</surname></persName>. Πρέπει να φροντίσω και για τα
-            χειρόγραφά του. Εσύ τι λες; Τι θα κάνετε για να τον γνωρίσει καλύτερα το κοινό μας; </p>
-         <p>Φίλησέ μου τον <persName>
-               <forename>Τάσο</forename></persName>. Πολύ τον πεθύμησα. Πες σε παρακαλώ του<persName><surname>
-                  Ραυτόπουλου</surname></persName> πως δεν τον ξεχνώ, θα του γράψω, όπως και του <persName><surname>Λεβάντα.</surname></persName> </p>
+
+         <p>Δυο λόγια βιαστικά για να προφτάσω. Ο <persName><forename>Τάκης
+            </forename></persName>μου λέει πως το βιβλίο μου τυπώνεται προσεχώς. Μακάρι, αλλά και να
+            μην είναι αλήθεια μη χαλάς την καρδιά σου. Πάντως μη λογαριάζεις απάνω μου για
+            διορθώσεις ή υποδείξεις γιατί εγώ στις <date when="1957-04-12">12 Απριλίου</date> φεύγω
+            για το <placeName>Βερολίνο</placeName>. Ετοιμάζω μια ανακοίνωση στο Συνέδριο: Κ.Π.
+            Καβάφη: Περιμένοντας τους βαρβάρους – Πηγές του ποιήματος και περιστάσεις της σύνθεσής
+            του. </p>
+            <p>Αλλά τι λέω; Εσύ δεν θάρθεις; Δύσκολο ή αδύνατο; Κι ο <persName><forename> Τάσος </forename></persName>; Πες του να χαρείς πως
+            πηγαίνω ίσως αυτό σας κάνει και τους δυο να τ’ αποφασίσετε. Ποιος άλλος θα πάει;
+                  Ο<persName><surname> Ρίτσος</surname></persName>; Φυσικά ο
+                  <persName><forename>Άγις </forename><surname>Θέρος</surname></persName>. Μα ο
+                  <persName><surname>Αυγέρης</surname></persName>; </p>
+         <p>Περιμένω δυο λόγια από σένα ή τον <persName><forename>Τάσο</forename></persName>.</p>
+         <p>Παρακαλώ τον διορθωτή του βιβλίου μου να προσέξει τις ξενικές λέξεις και τα ονόματα.
+            Στην <bibl type="journal"><title>«Αυγή»</title></bibl> πριν λίγο καιρό αναδημοσιέψανε το
+            <bibl type="article"><title>«Πάλεμα με τη σμύρνα»</title></bibl>. Παντού όπου λέω Αλμπινός ή
+            αλμπινός, αυτοί βάλανε Αλμπ<emph>ρι</emph>νός. Τι διάβολο δεν ξέρουν τι είναι ο
+            αλμπινός; </p>
+         <p>Με συγχωρείς που σου γράφω τόσο σπασμωδικά. Έχω πολλές δουλειές να τελειώσω πριν
+            φύγω.-</p>
+         <p>Τι έπαθες πια και βουβάθηκες;</p>
          <closer>
-            <salute>Σε φιλώ</salute>
-            <signed><persName ref="#ST"><forename>Σ</forename> <surname>Τσίρκας</surname></persName>
-            </signed>
+            <salute>Σε φιλώ 
+               <persName ref="#ST">ΣΤσίρκας</persName>
+            </salute>
          </closer>
-      </div>
-      </body>
+     </div>
+    </body>
    </text>
 </TEI>

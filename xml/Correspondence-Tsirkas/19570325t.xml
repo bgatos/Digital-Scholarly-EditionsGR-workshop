@@ -6,7 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title>Πιλοτική ψηφιακή έκδοση αλληλογραφίας</title>
-            <editor>Αννα-Μαρία Σιχάνη<email>anna-maria.sichani@huygens.knaw.nl</email></editor>
+            <editor>Αννα-Μαρία Σιχάνη <email>anna-maria.sichani@huygens.knaw.nl</email></editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -29,24 +29,6 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#ST">
-                  <surname> Τσίρκας</surname>
-                  <forename>Στρατής</forename>
-               </persName>
-               <placeName ref="#alexandria">Αλεξάνδρεια</placeName>
-               <date when="1957-03-25"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#MP">
-                  <surname>Παπαϊωάννου</surname>
-                  <forename> Μ.Μ.</forename>
-               </persName>
-               <placeName ref="#athens">Αθήνα</placeName>
-               <date notBefore="1957-03-25" notAfter="1957-04-02" cert="medium"/>
-            </correspAction>
-         </correspDesc>
          <particDesc>
             <listPerson>
                <person xml:id="ST">
@@ -104,7 +86,7 @@
       <body>
          <div type="letter">
          <opener>
-            <dateline><placeName>Αλεξ.</placeName> <date when="1957-03-25">25 Μαρτίου 1957</date></dateline>
+            <dateline><placeName ref="#alexandria">Αλεξ.</placeName> <date when="1957-03-25">25 Μαρτίου 1957</date></dateline>
             <salute>Αγαπητέ μου <persName ref="#MP"><forename>Μιχάλη</forename></persName></salute>
          </opener>
 

@@ -30,6 +30,23 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#MP">
+                        <surname>Παπαϊωάννου</surname>
+                        <forename>Μ.Μ.</forename>
+                    </persName>
+                    <date when="1956-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#ST">
+                        <surname>Τσίρκας</surname>
+                        <forename>Στρατής</forename>
+                    </persName>
+                    <placeName ref="#alexandria">Αλεξάνδρεια</placeName>
+                    <date notBefore="1956-02-18" notAfter="1956-02-22" cert="medium"/>
+                </correspAction>
+            </correspDesc>
             <particDesc>
                 <listPerson>
                     <person xml:id="ST">
@@ -58,6 +75,13 @@
             </particDesc>
             <settingDesc>
                 <listPlace>
+                    <place xml:id="alexandria">
+                        <placeName>Alexandria</placeName>
+                        <country>Egypt</country>
+                        <location>
+                            <geo>31.200092, 29.918739</geo>
+                        </location>
+                    </place>
                     <place xml:id="cairo">
                         <placeName>Cairo</placeName>
                         <country>Egypt</country>
