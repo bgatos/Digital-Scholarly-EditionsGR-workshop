@@ -8,7 +8,9 @@
 
 <li>Digital Scholarly Editing, Susan Schreibman, Literary Studies in the Digital Age. An Evolving Anthology https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/</li>
 
-
+<li>Kenneth M. Price, “Edition, Project, Database, Archive, Thematic Research Collection: What's in a Name?”, DHQ 3: 3 (2009)
+http://www.digitalhumanities.org/dhq/vol/3/3/000053/000053.html
+</li>
 <li>Digital Scholarly Editing. Theories, Models and Methods, Elena Pierazzo,  Routledge, 2015 
 </li>
 </ul>
