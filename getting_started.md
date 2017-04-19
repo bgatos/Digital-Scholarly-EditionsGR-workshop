@@ -5,7 +5,7 @@
 Αν αντιμετωπίσετε οποιοδήποτε πρόβλημα, μην ανησυχείτε! Οι εκπαιδευτές του σεμιναρίου θα χαρούν να σας βοηθήσουν κατά τη διάρκεια του σεμιναρίου να τα εγκαταστήσετε! 
 </p>
 <h2>1. Install Oxygen</h2> 
-<p>We will be mainly using Oxygen XML Editor during the first sessions of the seminar. We have secured a 3-month class license for the seminar's participants (license key to be sent via email).</p>
+<p>We will be mainly using Oxygen XML Editor during the first sessions of the seminar. We have secured a 3-month classroom license for the seminar's participants (license key to be sent via email). WOW!!!</p>
 
 <p>The latest version of Oxygen, v18.1, can be downloaded here:</p>
 https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html 
@@ -26,6 +26,7 @@ A new version (or maintenance build) of oXygen should not be copied to a directo
 <p>To run the application double-click Oxygen XML Editor in Finder or execute oxygenMac.sh from the Terminal.
 
 Copy to clipboard the license key you have received by email and paste it in the license registration dialog box from the application.</p>
+
 <h3>Requirements:</h3>
 <ul><li>Supports  : Mountain Lion (10.8),Mavericks (10.9), Yosemite (10.10), El Capitan (10.11) and Sierra (10.12).</li>
 <li>On macOS Sierra (10.12) Oxygen requires the option System Preferences > Security & Privacy, Allow apps downloaded from to be set to App Store and identified developers during the installation phase.</li>
@@ -41,7 +42,12 @@ You can download the latest (3.1.1.) version of eXist by following the <a href="
 
 
 <h3>System Requirements</h3>
-<p>eXist-db is compatible with all recent versions of Linux, Mac OS X, and Windows. Out of the box, eXist-db requires at least 512 MB of RAM and about 200 MB of disk space. Administrative privileges are not required to install or run eXist-db, but certain installation procedures are not possible without administrative privileges. The critical requirement is that Java be installed.</p>
+<p>
+eXist-db is compatible with all recent versions of Linux, Mac OS X, and Windows. 
+
+Out of the box, eXist-db requires at least 512 MB of RAM and about 200 MB of disk space. Administrative privileges are not required to install or run eXist-db, but certain installation procedures are not possible without administrative privileges. </p>
+
+**The critical requirement is that Java 8 be installed.** (For instructions about running Java on your operating system, see Oracle's Installing Java page.)
 
 
 <h2>3. Access to workshop material and familiarisation with gitHub</h2>
