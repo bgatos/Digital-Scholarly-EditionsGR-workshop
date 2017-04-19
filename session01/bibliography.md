@@ -3,8 +3,7 @@
 <h2>Ενδεικτική βιβλιογραφία </h2><lb/> 
 <ul>
 
-<li>Digital Scholarly Editing: Theories and Practices,  Matthew James Driscoll and Elena Pierazzo (eds.), Open Book publishers 2016 ( FREE PDF )www.openbookpublishers.com/product/483/digital-scholarly-editing--theories-and-practices</li>
-
+<li>Digital Scholarly Editing: Theories and Practices,  Matthew James Driscoll and Elena Pierazzo (eds.), Cambridge: Open Book Publishers. 2016 ( FREE PDF )www.openbookpublishers.com/product/483/digital-scholarly-editing--theories-and-practices</li>
 
 <li>Digital Scholarly Editing, Susan Schreibman, Literary Studies in the Digital Age. An Evolving Anthology https://dlsanthology.mla.hcommons.org/digital-scholarly-editing/</li>
 
