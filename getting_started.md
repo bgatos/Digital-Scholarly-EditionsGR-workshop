@@ -37,8 +37,7 @@ Copy to clipboard the license key you have received by email and paste it in the
 <h2>2. Install eXist  - download installation </h2>
 <p>We will be using the <a href="http://exist-db.org/exist/apps/homepage/index.html">Open Source native XML database eXist</a> during the last sessions of our seminar. Do have a quick look at the <a href="http://exist-db.org/exist/apps/doc/quickstart.xml">quick start</a> </p>
 
-You can dowload the latest version from here <a href="bintray.com/existdb/releases/exist/3.1.1/view">
-bintray.com/existdb/releases/exist/3.1.1/view </a>
+You can dowload the latest version from here https://bintray.com/existdb/releases/exist/3.1.1/view
 
 <h3>System Requirements</h3>
 <p>eXist-db is compatible with all recent versions of Linux, Mac OS X, and Windows. Out of the box, eXist-db requires at least 512 MB of RAM and about 200 MB of disk space. Administrative privileges are not required to install or run eXist-db, but certain installation procedures are not possible without administrative privileges. The critical requirement is that Java be installed.</p>
