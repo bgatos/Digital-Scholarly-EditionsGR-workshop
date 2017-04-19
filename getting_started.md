@@ -35,8 +35,9 @@ Copy to clipboard the license key you have received by email and paste it in the
 
 
 <h2>2. Install eXist  - download installation </h2>
-<p>We will be using the <a href="http://exist-db.org/exist/apps/homepage/index.html">Open Source native XML database eXist</a> during the last sessions of our seminar </p>
-You can dowload the latest version from here <a href="bintray.com/existdb/releases/exist/3.1.1/view ">
+<p>We will be using the <a href="http://exist-db.org/exist/apps/homepage/index.html">Open Source native XML database eXist</a> during the last sessions of our seminar. Do have a quick look at the <a href="http://exist-db.org/exist/apps/doc/quickstart.xml">quick start</a> </p>
+
+You can dowload the latest version from here <a href="bintray.com/existdb/releases/exist/3.1.1/view">
 bintray.com/existdb/releases/exist/3.1.1/view </a>
 
 <h3>System Requirements</h3>
@@ -45,4 +46,5 @@ bintray.com/existdb/releases/exist/3.1.1/view </a>
 
 <h2>3. Access to workshop material and familiarisation with gitHub</h2>
 
-Try to familiarise yourself with the GitHub environment and  logic, as this is the main reference point we are going to use for accessing & storing the teaching material !  GitHub for Collaboration On Open Projects from Mozilla Science Lab
+Try to familiarise yourself with the GitHub environment and  logic, as this is the main reference point we are going to use for accessing & storing the teaching material !  <a href="http://mozillascience.github.io/working-open-workshop/github_for_collaboration/">GitHub for Collaboration On Open Projects</a> from <a href="https://science.mozilla.org/">Mozilla Science Lab</a>
+
