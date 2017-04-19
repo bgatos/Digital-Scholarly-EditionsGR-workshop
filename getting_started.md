@@ -5,7 +5,7 @@
 Αν αντιμετωπίσετε οποιοδήποτε πρόβλημα, μην ανησυχείτε! Οι εκπαιδευτές του σεμιναρίου θα χαρούν να σας βοηθήσουν κατά τη διάρκεια του σεμιναρίου να τα εγκαταστήσετε! 
 </p>
 <h2>1. Install Oxygen</h2> 
-<p>We will be mainly using Oxygen XML Editor during the first sessions of the seminar. We have secured a 3-month classroom license for the seminar's participants (license key to be sent via email). WOW!!!</p>
+<p>We will mainly use Oxygen XML Editor during the first sessions of the seminar. We have secured a 3-month classroom license for the seminar's participants (license key to be sent via email). WOW!!!</p>
 
 <p>The latest version of Oxygen, v18.1, can be downloaded here:</p>
 https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html 
@@ -36,7 +36,7 @@ Copy to clipboard the license key you have received by email and paste it in the
 
 
 <h2>2. Install eXist  - download installation </h2>
-<p>We will be using the <a href="http://exist-db.org/exist/apps/homepage/index.html">Open Source native XML database eXist</a> during the last sessions of our seminar. 
+<p>We will use the <a href="http://exist-db.org/exist/apps/homepage/index.html">Open Source native XML database eXist</a> during the last sessions of our seminar. 
 
 You can download the latest (3.1.1.) version of eXist by following the <a href="http://exist-db.org/exist/apps/doc/quickstart.xml">Instructions/Quick start</a> from here https://bintray.com/existdb/releases/exist/3.1.1/view </p>
 
