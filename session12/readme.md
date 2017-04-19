@@ -3,6 +3,9 @@
 
 Κεντρικός ομιλητής της εκδήλωσης είναι ο **Mats Dahlström** (Associate professor, Swedish School of Library and Information Science,UC Borås, Sweden)</lb>
  <h3> Light and shadows : digitization, digital facsimiles and scholarly editing</h3>
+ 
+ Register <a href="https://www.eventbrite.com/e/light-and-shadows-digitization-digital-facsimiles-and-scholarly-editing-keynote-lecture-mats-tickets-33520161706?aff=eac2">here</a>!
+ 
  <h2>abstract</h2>
 However you define the field of digital humanities (DH), it usually revolves around digital and in particular digitized objects, often housed at and digitized by a memory institution such as a library. Such digital reproductions are present and important for a number of DH projects, including digital scholarly editions (DSE). The digital facsimiles are not only used as mere illustrations supporting a scholarly text transcription, but can also serve as research tools and as instruments for accountability and accessibility. 
 
@@ -14,5 +17,6 @@ In my talk, I will address some of the scholarly issues and considerations libra
 
 <h2>BIO</h2>
 Mats Dahlström (b. 1964) is an associate professor at the Swedish School of Library and Information Science, the University of Borås. For 20 years he has been an active researcher on digitisation, scholarly editing, bibliography, text encoding and new media. He is a member of the Scandinavian scholarly editing community and publishes regularly on the digital humanities scene. He also consults and supervises profession-based as well as academic projects on cultural heritage digitization, primarily within the framework of libraries and archives. He is a member and supervisor within the Marie Skłowdowska-Curie ITN “DiXiT” project (Digital Scholarly Editions Initial Training Network), running 2013-2017.
+
 
 
