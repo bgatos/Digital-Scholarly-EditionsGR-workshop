@@ -21,3 +21,7 @@
 </li>
 
 <li>Criteria for Reviewing Scholarly Digital Editions, version 1.1 https://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/</li>
+
+
+<li>Lexicon of Scholarly Editing . A Multilingual Lexicon for a Multilingual Discipline http://uahost.uantwerpen.be/lse/index.php/lexicon/scholarly-edition/</li>
+</ul>
