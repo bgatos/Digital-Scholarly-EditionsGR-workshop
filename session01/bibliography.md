@@ -24,4 +24,8 @@
 
 
 <li>Lexicon of Scholarly Editing . A Multilingual Lexicon for a Multilingual Discipline http://uahost.uantwerpen.be/lse/index.php/lexicon/scholarly-edition/</li>
+
+
+<li>A review journal for digital editions and resources, published by the IDE http://ride.i-d-e.de/
+</li>
 </ul>
