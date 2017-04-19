@@ -14,12 +14,10 @@
 </ul>
 
 <h2>Σχετικό υλικό </h2>
-<li>a catalog of Digital Scholarly Editions, v 3.0, compiled by Patrick Sahle, last change 2017/03/22  http://www.digitale-edition.de/
+<li>A catalog of Digital Scholarly Editions, v 3.0, compiled by Patrick Sahle, last change 2017/03/22  http://www.digitale-edition.de/
 </li>
 
-
-
-<li>The Digital Editions Catalogue App (Dig-Ed-Cat), by Greta Franzini
+<li>The Digital Editions Catalogue App (Dig-Ed-Cat), by Greta Franzini https://dig-ed-cat.eos.arz.oeaw.ac.at/
 </li>
 
 <li>Criteria for Reviewing Scholarly Digital Editions, version 1.1 https://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/</li>
