@@ -16,6 +16,5 @@
 
 <li>ανοίγοντας το Oxygen</li>
 δημιουργώντας ένα XML κείμενο στο Oxygen<lb/>
-http://tei.it.ox.ac.uk/Talks/2015-07-dhoxss/oxygen-exercise/oxygen-exercise.xml
 
 </ul>
