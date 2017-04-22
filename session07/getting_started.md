@@ -1,8 +1,11 @@
 
-Εγκατάσταση Transkribus:
+<h2>Εγκατάσταση Transkribus</h2>:
  
- 
-Βήμα 1ο: Registration στο https://transkribus.eu/Transkribus/  (θα χρειαστεί προσωπικό email)
-Βήμα 2ο: Ενεργοποίηση του λογαριασμού από το email που θα λάβετε
-Βήμα 3ο: Download και αποσυμπίεση (unzip) της εγκατάσταση εφαρμογής (για Windows, Linux ή Mac) από την ίδια σελίδα.
-Βήμα 4ο: Έναρξη της εφαρμογής:  .exe (Windows), .command (Mac) ή .sh (Linux)​
+ <ul>
+<li>Βήμα 1ο: Registration στο https://transkribus.eu/Transkribus/  (θα χρειαστεί προσωπικό email)</li>
+<li>Βήμα 2ο: Ενεργοποίηση του λογαριασμού από το email που θα λάβετε</li>
+<li>Βήμα 3ο: Download και αποσυμπίεση (unzip) της εγκατάσταση εφαρμογής (για Windows, Linux ή Mac) από την ίδια σελίδα.</li>
+<li>Βήμα 4ο: Έναρξη της εφαρμογής:  .exe (Windows), .command (Mac) ή .sh (Linux)</li>
+</ul>
+
+<h3>Αν αντιμετωπίσετε οποιαδήποτε πρόβλημα κατά την εγκατάσταση, μην φοβάστε! Η "dream team" του Δημόκριτου θα είναι εκεί για να σας βοηθήσει!</h3>
